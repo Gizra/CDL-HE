@@ -1,0 +1,13 @@
+---
+layout: page
+name: List of pages
+---
+{{ page.name }}
+{% include JB/setup %}
+<ul>
+  {% for link in site.pages %}
+  <li>
+    <a href="{{ BASE_PATH }}/pages/{{link.guid}}/index.html">{{ link.name }}</a>
+  </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,30 @@
+/*
+ * This file contains the fixes for compass file generated.
+ */
+@-moz-document url-prefix() {
+
+  div.node-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  div.navigation-list ul li {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+  }
+
+}
+
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (-webkit-min-device-pixel-ratio: 1) {
+  iframe.iframe {
+    height: inherit;
+  }
+}
+

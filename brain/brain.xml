@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BrainData SYSTEM "http://www.thebrain.com/dtd/BrainData1.dtd">
+<BrainData>
+    <Source>
+        <guid>83544860-BDC1-34C9-7C1C-98B63C6062EB</guid>
+        <name>&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501; &amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1514; &amp;#1504;&amp;#1497;&amp;#1505;&amp;#1493;&amp;#1497;  3.12.2014</name>
+        <personalBrainVersion>7045</personalBrainVersion>
+        <telepathyVersion>10</telepathyVersion>
+        <fileRoot>\\nlinetapp1\homedir\shaye\Desktop\&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501; &amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1514; &amp;#1504;&amp;#1497;&amp;#1505;&amp;#1493;&amp;#1497;  3.12.2014_brain\Files</fileRoot>
+        <generatedDateTime>2014-12-04 14:04:58.447 @+0200</generatedDateTime>
+        <homeThoughtGuid>2A9CDC00-404C-64AD-BE5E-32059D488109</homeThoughtGuid>
+        <modificationDateTime>2014-12-03 16:31:00.084 @+0200</modificationDateTime>
+    </Source>
+    <Attributes>
+        <Attribute>
+            <guid>whereText_Event</guid>
+            <name>whereText_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.974 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.974 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>startDate_Event</guid>
+            <name>startDate_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.971 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.971 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>originalStartDate_Event</guid>
+            <name>originalStartDate_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.975 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.975 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>eventLastEndDate_Event</guid>
+            <name>eventLastEndDate_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.963 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.963 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>repeatType_Event</guid>
+            <name>repeatType_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.968 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.968 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>reminderDate_Event</guid>
+            <name>reminderDate_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.970 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.970 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>priority_Event</guid>
+            <name>priority_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.969 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.969 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>status_Event</guid>
+            <name>status_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.972 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.972 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>eventRepeatOption_Event</guid>
+            <name>eventRepeatOption_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.973 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.973 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>percentComplete_Event</guid>
+            <name>percentComplete_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.964 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.964 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>lengthBasedType_Event</guid>
+            <name>lengthBasedType_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.976 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.976 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>eventReminderType_Event</guid>
+            <name>eventReminderType_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.977 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.977 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>1</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>showHintInPlex_Tag</guid>
+            <name>showHintInPlex_Tag</name>
+            <creationDateTime>2014-12-03 16:31:03.978 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.978 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>calendarExclusionDate_Event</guid>
+            <name>calendarExclusionDate_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.979 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.979 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>2</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>calendarExclusionHref_Event</guid>
+            <name>calendarExclusionHref_Event</name>
+            <creationDateTime>2014-12-03 16:31:03.980 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.980 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+        <Attribute>
+            <guid>googleCalendarSyncDate</guid>
+            <name>googleCalendarSyncDate</name>
+            <creationDateTime>2014-12-03 16:31:03.984 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:31:03.984 @+0200</modificationDateTime>
+            <deletedDateTime></deletedDateTime>
+            <isDisplayed>false</isDisplayed>
+            <isEditable>false</isEditable>
+            <orderRank>0</orderRank>
+            <dataType>3</dataType>
+        </Attribute>
+    </Attributes>
+    <Thoughts>
+        <Thought>
+            <guid>7505D43F-518B-4B46-4495-45B81531F2A9</guid>
+            <name>&amp;#1500;&amp;#1513;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1508;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1513;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:05.087 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 12:16:08.321 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 12:16:08.321 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 12:15:45.716 @+0200</activationDateTime>
+            <linksModificationDateTime>2013-10-22 16:42:09.000 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>D426D901-F0FB-99E7-6E57-289CFFFBDD64</guid>
+            <name>&amp;#1497;&amp;#1510;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1502;&amp;#1493;&amp;#1508;&amp;#1514; &amp;#1504;&amp;#1493;&amp;#1505;&amp;#1508;&amp;#1493;&amp;#1514; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:04.793 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 12:37:31.031 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 12:37:31.031 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 13:49:30.766 @+0200</activationDateTime>
+            <linksModificationDateTime>2013-12-25 12:52:27.000 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>1BAF406E-CD39-9925-64F2-EB8CD3520C9E</guid>
+            <name>:2: &amp;#1499;&amp;#1514;&amp;#1489;-&amp;#1492;&amp;#1497;&amp;#1491; &amp;#1489;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:05.934 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 12:42:10.503 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 13:38:20.378 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 12:43:35.104 @+0200</activationDateTime>
+            <linksModificationDateTime>2013-12-25 12:52:27.813 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>4504BA63-8A03-E369-3B65-6AA7A2D71392</guid>
+            <name>&amp;#1508;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1513; &amp;#1492;&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:05.456 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-03 16:47:32.656 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 11:49:45.556 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 13:49:53.171 @+0200</activationDateTime>
+            <linksModificationDateTime>2013-11-25 14:38:09.000 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3</guid>
+            <name>&amp;#1508;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1513; &amp;#1492;&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1500;&amp;#1512;&amp;#1502;&amp;#1489;&amp;quot;&amp;#1501;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:03.674 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-03 16:36:46.366 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-03 16:46:47.102 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 13:49:22.543 @+0200</activationDateTime>
+            <linksModificationDateTime>2014-12-04 13:45:05.853 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>BBABED78-4615-B590-7227-87D4BA75B9E2</guid>
+            <name>&amp;#1511;&amp;#1493;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1499;&amp;#1514;&amp;#1489;-&amp;#1492;&amp;#1497;&amp;#1491;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:04.786 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 12:18:27.198 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 12:18:27.198 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 12:34:37.379 @+0200</activationDateTime>
+            <linksModificationDateTime>2014-01-09 12:24:45.305 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>82E599B4-743F-E479-ECDA-1F0B8FC4E538</guid>
+            <name>:1: &amp;#1502;&amp;#1502;&amp;#1510;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1488;&amp;#1500;&amp;#1508;&amp;#1493;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:04.594 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 12:20:41.732 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 12:20:41.732 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 12:20:23.662 @+0200</activationDateTime>
+            <linksModificationDateTime>2014-01-09 12:24:14.087 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>FB6C82E3-22BC-35F8-A367-5AAB2732BB40</guid>
+            <name>:3: &amp;#1502;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1504;&amp;#1489;&amp;#1493;&amp;#1499;&amp;#1497;&amp;#1501;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:17.096 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 13:40:55.175 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 13:42:36.973 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 13:40:40.568 @+0200</activationDateTime>
+            <linksModificationDateTime>2013-11-13 16:07:15.409 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>0364CF7B-3F0B-C121-C39B-5D4439E226F6</guid>
+            <name>:2: &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1489;&amp;#1488;&amp;#1500;&amp;#1508;&amp;#1493;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:07.238 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 12:21:06.372 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 12:22:34.891 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 12:20:45.485 @+0200</activationDateTime>
+            <linksModificationDateTime>2014-01-09 12:24:28.211 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>2A9CDC00-404C-64AD-BE5E-32059D488109</guid>
+            <name>&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501; &amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1514; &amp;#1504;&amp;#1497;&amp;#1505;&amp;#1493;&amp;#1497; 3.12.2014</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:31:00.080 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-03 16:31:00.080 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-03 16:31:00.080 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-03 16:31:00.080 @+0200</activationDateTime>
+            <linksModificationDateTime>2014-12-03 16:32:35.274 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>D6BBEBDF-00D3-DBD2-7736-78D520E0189C</guid>
+            <name>:1: &amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:15.565 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 12:38:05.224 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 12:41:38.130 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 12:37:41.331 @+0200</activationDateTime>
+            <linksModificationDateTime>2013-11-13 16:05:32.000 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>1E9B1ED7-FC05-8624-14CD-02272D8B60A1</guid>
+            <name>:_:3 &amp;#1508;&amp;#1497;&amp;#1494;&amp;#1493;&amp;#1512; &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:08.629 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 12:24:29.617 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 12:26:51.108 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 12:24:08.517 @+0200</activationDateTime>
+            <linksModificationDateTime>2014-01-09 12:24:37.000 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>F7473840-FD1D-D51D-F9E9-E5C0737401F5</guid>
+            <name>:_: &amp;#1502;&amp;#1492;&amp;#1497; &amp;#1492;&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492;?</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:14.965 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 11:58:58.019 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 12:08:02.898 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 13:50:11.930 @+0200</activationDateTime>
+            <linksModificationDateTime>2013-11-27 13:39:18.000 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>04742146-4A6C-FCA8-766B-176722205CC9</guid>
+            <name>:_: &amp;#1502;&amp;#1492;&amp;#1493; &amp;#1492;&amp;#1514;&amp;#1500;&amp;#1502;&amp;#1493;&amp;#1491;?</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:06.323 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 11:55:18.519 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 11:58:32.556 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 11:50:54.492 @+0200</activationDateTime>
+            <linksModificationDateTime>2014-02-04 15:49:12.701 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+        <Thought>
+            <guid>ADA933BD-EE7D-3B4A-8329-57CBAA4CCD8A</guid>
+            <name>:4: &amp;#1502;&amp;#1488;&amp;#1500;&amp;#1508;&amp;#1493; &amp;#1500;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;</name>
+            <label></label>
+            <creationDateTime>2014-12-03 16:32:07.085 @+0200</creationDateTime>
+            <realModificationDateTime>2014-12-04 12:28:19.221 @+0200</realModificationDateTime>
+            <displayModificationDateTime>2014-12-04 12:34:06.294 @+0200</displayModificationDateTime>
+            <activationDateTime>2014-12-04 12:32:53.564 @+0200</activationDateTime>
+            <linksModificationDateTime>2014-01-09 12:24:45.305 @+0200</linksModificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <accessControlType>0</accessControlType>
+        </Thought>
+    </Thoughts>
+    <Links>
+        <Link>
+            <guid>ED27E20B-A352-EF83-B4FD-203735179681</guid>
+            <idA>4504BA63-8A03-E369-3B65-6AA7A2D71392</idA>
+            <idB>7505D43F-518B-4B46-4495-45B81531F2A9</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:04.830 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:22.540 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>D239DA1B-58A8-18E9-AFD7-4EB4B1B8FC43</guid>
+            <idA>D426D901-F0FB-99E7-6E57-289CFFFBDD64</idA>
+            <idB>E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3</idB>
+            <dir>2</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:05.160 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:18.922 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>033ADB11-AAE7-6E40-B0B1-19C56A167875</guid>
+            <idA>D426D901-F0FB-99E7-6E57-289CFFFBDD64</idA>
+            <idB>FB6C82E3-22BC-35F8-A367-5AAB2732BB40</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:03.530 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:21.693 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>321B61D4-A855-EC26-CFAC-A7A99A8CAA11</guid>
+            <idA>D6BBEBDF-00D3-DBD2-7736-78D520E0189C</idA>
+            <idB>D426D901-F0FB-99E7-6E57-289CFFFBDD64</idB>
+            <dir>2</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:03.970 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:22.032 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>FC2C5BD9-DD01-69D2-8609-D478ECD3C97A</guid>
+            <idA>1BAF406E-CD39-9925-64F2-EB8CD3520C9E</idA>
+            <idB>D426D901-F0FB-99E7-6E57-289CFFFBDD64</idB>
+            <dir>2</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:05.270 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:22.333 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>6B078F91-514D-A99F-4ED9-6BE5D518BC45</guid>
+            <idA>4504BA63-8A03-E369-3B65-6AA7A2D71392</idA>
+            <idB>F7473840-FD1D-D51D-F9E9-E5C0737401F5</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:06.050 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:28.132 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID>959F3014-9421-5669-263B-F70A90471E51</linkTypeID>
+        </Link>
+        <Link>
+            <guid>55477A2A-8093-19B7-5306-7191E09821C3</guid>
+            <idA>4504BA63-8A03-E369-3B65-6AA7A2D71392</idA>
+            <idB>04742146-4A6C-FCA8-766B-176722205CC9</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:06.040 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:28.122 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID>959F3014-9421-5669-263B-F70A90471E51</linkTypeID>
+        </Link>
+        <Link>
+            <guid>2D19C172-1F01-E186-CFBE-F96AED380D6E</guid>
+            <idA>E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3</idA>
+            <idB>4504BA63-8A03-E369-3B65-6AA7A2D71392</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:05.060 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:18.155 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>6EAFB36C-2A70-817F-4BD8-EBD23C0D4E8A</guid>
+            <idA>BBABED78-4615-B590-7227-87D4BA75B9E2</idA>
+            <idB>4504BA63-8A03-E369-3B65-6AA7A2D71392</idB>
+            <dir>2</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:04.960 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:19.926 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>F50AE4B5-425D-65B7-5990-97D66D90B42F</guid>
+            <idA>2A9CDC00-404C-64AD-BE5E-32059D488109</idA>
+            <idB>E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-12-03 16:32:35.258 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:35.258 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>22E4E934-541D-C83B-E596-83563696C16B</guid>
+            <idA>BBABED78-4615-B590-7227-87D4BA75B9E2</idA>
+            <idB>82E599B4-743F-E479-ECDA-1F0B8FC4E538</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-09 12:24:14.047 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:19.748 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>94F2AA92-8B3C-E4A9-2704-D2CDCB776B30</guid>
+            <idA>BBABED78-4615-B590-7227-87D4BA75B9E2</idA>
+            <idB>0364CF7B-3F0B-C121-C39B-5D4439E226F6</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-09 12:24:28.201 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:20.171 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>013EABF5-A006-8C7D-EC92-163E3330167A</guid>
+            <idA>BBABED78-4615-B590-7227-87D4BA75B9E2</idA>
+            <idB>1E9B1ED7-FC05-8624-14CD-02272D8B60A1</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-09 12:24:37.001 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:20.514 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>E054FD46-3A41-5F37-A1FC-E65159891106</guid>
+            <idA>BBABED78-4615-B590-7227-87D4BA75B9E2</idA>
+            <idB>ADA933BD-EE7D-3B4A-8329-57CBAA4CCD8A</idB>
+            <dir>1</dir>
+            <isBackward>0</isBackward>
+            <name></name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-09 12:24:45.305 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:20.712 @+0200</modificationDateTime>
+            <isType>0</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+        <Link>
+            <guid>959F3014-9421-5669-263B-F70A90471E51</guid>
+            <dir>0</dir>
+            <isBackward>0</isBackward>
+            <name>&amp;#1492;&amp;#1505;&amp;#1489;&amp;#1512; &amp;#1488;&amp;#1493;&amp;#1508;&amp;#1510;&amp;#1497;&amp;#1493;&amp;#1504;&amp;#1488;&amp;#1500;&amp;#1497;</name>
+            <labelForward></labelForward>
+            <labelBackward></labelBackward>
+            <creationDateTime>2014-01-07 11:38:06.030 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:28.102 @+0200</modificationDateTime>
+            <isType>1</isType>
+            <color>0</color>
+            <thickness>0</thickness>
+            <strength>0</strength>
+            <meaning>0</meaning>
+            <linkTypeID></linkTypeID>
+        </Link>
+    </Links>
+    <AttributeDatas/>
+    <Entries>
+        <Entry>
+            <guid>5C98A114-FFFF-F58A-8BBD-D3659999782F</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>7505D43F-518B-4B46-4495-45B81531F2A9</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+p.msonormal {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; line-height: 150%; text-align: right;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; line-height: 150%; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;&amp;#1500;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1504;&amp;#1493; &amp;#1491;&amp;#1497;&amp;#1508;&amp;#1500;&amp;#1493;&amp;#1502;&amp;#1492; &amp;#1512;&amp;#1513;&amp;#1502;&amp;#1497;&amp;#1514; &amp;#1513;&amp;#1500; &amp;#1488;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1489;&amp;#1512;&amp;#1505;&amp;#1497;&amp;#1496;&amp;#1514; &amp;#1508;&amp;#1491;&amp;#1493;&amp;#1489;&amp;#1492; (&amp;#1508;&amp;#1491;&amp;#1493;&amp;#1488;&amp;#1492;) &amp;#1502;&amp;#1510;&amp;#1508;&amp;#1493;&amp;#1503; &amp;#1488;&amp;#1497;&amp;#1496;&amp;#1500;&amp;#1497;&amp;#1492; &amp;#1502;&amp;#1513;&amp;#1504;&amp;#1514; 1695, &amp;#1492;&amp;#1502;&amp;#1506;&amp;#1504;&amp;#1497;&amp;#1511;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1488;&amp;#1512; &amp;#1491;&amp;#1493;&amp;#1511;&amp;#1496;&amp;#1493;&amp;#1512; &amp;#1489;&amp;#1512;&amp;#1508;&amp;#1493;&amp;#1488;&amp;#1492; &amp;#1493;&amp;#1489;&amp;#1508;&amp;#1497;&amp;#1500;&amp;#1493;&amp;#1505;&amp;#1493;&amp;#1508;&amp;#1497;&amp;#1492; &amp;#1500;&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497; &amp;#1511;&amp;#1493;&amp;#1508;&amp;#1497;&amp;#1500;&amp;#1497;&amp;#1493;&amp;#1505; &amp;#1489;&amp;#1503; &amp;#1497;&amp;#1493;&amp;#1505;&amp;#1507; &amp;#1508;&amp;#1497;&amp;#1511;&amp;#1496;&amp;#1493;&amp;#1512;, &amp;#1492;&amp;#1512;&amp;#1497; &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1497;&amp;#1506;&amp;#1511;&amp;#1489; &amp;#1489;&amp;#1503; &amp;#1497;&amp;#1493;&amp;#1505;&amp;#1507; &amp;#1502;&amp;#1492;&amp;#1500;&amp;#1512; &amp;#1502;&amp;#1489;&amp;#1497;&amp;#1504;&amp;#1490;&amp;#1503;.&amp;amp;#160;&amp;amp;#160;&amp;amp;#160;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; line-height: 150%; text-align: right;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; line-height: 150%; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;&amp;#1504;&amp;#1497;&amp;#1514;&amp;#1503; &amp;#1500;&amp;#1512;&amp;#1488;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1501;-&amp;#1499;&amp;#1503; &amp;#1499;&amp;#1497; &amp;#1489;&amp;#1505;&amp;#1493;&amp;#1507; &amp;#1492;&amp;#1502;&amp;#1488;&amp;#1492; &amp;#1492;-17 &amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497; &amp;#1502;&amp;#1495;&amp;#1489;&amp;#1500; &amp;#1492;&amp;#1512;&amp;#1497;&amp;#1497;&amp;#1503; &amp;#1513;&amp;#1489;&amp;#1490;&amp;#1512;&amp;#1502;&amp;#1504;&amp;#1497;&amp;#1492; &amp;#1497;&amp;#1499;&amp;#1493;&amp;#1500; &amp;#1492;&amp;#1497;&amp;#1492; &amp;#1500;&amp;#1500;&amp;#1502;&amp;#1493;&amp;#1491; &amp;#1489;&amp;#1488;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1489;&amp;#1512;&amp;#1505;&amp;#1497;&amp;#1496;&amp;#1514; &amp;#1508;&amp;#1491;&amp;#1493;&amp;#1489;&amp;#1492; &amp;#1513;&amp;#1489;&amp;#1510;&amp;#1508;&amp;#1493;&amp;#1503; &amp;#1488;&amp;#1497;&amp;#1496;&amp;#1500;&amp;#1497;&amp;#1492;, &amp;#1488;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1489;&amp;#1512;&amp;#1505;&amp;#1497;&amp;#1496;&amp;#1492; &amp;#1504;&amp;#1493;&amp;#1510;&amp;#1512;&amp;#1497;&amp;#1514; &amp;#8211; &amp;#1488;&amp;#1501; &amp;#1499;&amp;#1497; &amp;#1497;&amp;#1493;&amp;#1510;&amp;#1488;&amp;#1514; &amp;#1491;&amp;#1493;&amp;#1508;&amp;#1503; &amp;#1489;&amp;#1505;&amp;#1493;&amp;#1489;&amp;#1500;&amp;#1504;&amp;#1493;&amp;#1514;&amp;#1492; &amp;#1492;&amp;#1491;&amp;#1514;&amp;#1497;&amp;#1514; &amp;#8211; &amp;#1493;&amp;#1500;&amp;#1511;&amp;#1489;&amp;#1500; &amp;#1491;&amp;#1497;&amp;#1508;&amp;#1500;&amp;#1493;&amp;#1502;&amp;#1514; &amp;#1491;&amp;#1493;&amp;#1511;&amp;#1496;&amp;#1493;&amp;#1512;, &amp;#1493;&amp;#1489;&amp;#1500;&amp;#1488; &amp;#1513;&amp;#1497;&amp;#1492;&amp;#1488; &amp;#1492;&amp;#1502;&amp;#1491;&amp;#1493;&amp;#1489;&amp;#1512; &amp;#1489;&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497; &amp;#1502;&amp;#1514;&amp;#1508;&amp;#1511;&amp;#1512;, &amp;#1502;&amp;#1493;&amp;#1502;&amp;#1512;, &amp;#1488;&amp;#1493; &amp;#1513;&amp;#1506;&amp;#1494;&amp;#1489; &amp;#1488;&amp;#1514; &amp;#1511;&amp;#1492;&amp;#1497;&amp;#1500;&amp;#1514;&amp;#1493;: &amp;#1497;&amp;#1506;&amp;#1511;&amp;#1489; &amp;#1489;&amp;#1503; &amp;#1497;&amp;#1493;&amp;#1505;&amp;#1507; &amp;#1502;&amp;#1492;&amp;#1500;&amp;#1512; &amp;#1495;&amp;#1494;&amp;#1512; &amp;#1500;&amp;#1511;&amp;#1492;&amp;#1497;&amp;#1500;&amp;#1514; &amp;#1489;&amp;#1497;&amp;#1504;&amp;#1490;&amp;#1503; &amp;#1493;&amp;#1495;&amp;#1497; &amp;#1489;&amp;#1492; &amp;#1506;&amp;#1491; &amp;#1500;&amp;#1502;&amp;#1493;&amp;#1514;&amp;#1493; &amp;#1489;&amp;#1513;&amp;#1504;&amp;#1514; 1720, &amp;#1489;&amp;#1504;&amp;#1493; &amp;#8211; &amp;#1490;&amp;#1493;&amp;#1502;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1498; &amp;#1502;&amp;#1492;&amp;#1500;&amp;#1512; &amp;#8211; &amp;#1488;&amp;#1507; &amp;#1513;&amp;#1497;&amp;#1502;&amp;#1513; &amp;#1499;&amp;#1512;&amp;#1489; &amp;#1489;&amp;#1488;&amp;#1493;&amp;#1514;&amp;#1492; &amp;#1492;&amp;#1511;&amp;#1492;&amp;#1497;&amp;#1500;&amp;#1492;.&amp;amp;#160;&amp;amp;#160;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:28.265 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:09:50.857 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>EAD19CD6-913C-55CB-33DF-DA5F7EAF7030</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>D426D901-F0FB-99E7-6E57-289CFFFBDD64</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body></body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:30.834 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:30.834 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>1E38556E-1FE3-0498-B265-F01F48A1365B</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>1BAF406E-CD39-9925-64F2-EB8CD3520C9E</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+p.msonormal {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; line-height: 150%; text-align: right;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; line-height: 150%; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;&amp;#1492;&amp;#1514;&amp;#1506;&amp;#1493;&amp;#1491;&amp;#1492; &amp;#1492;&amp;#1497;&amp;#1488; &amp;#1495;&amp;#1500;&amp;#1511; &amp;#1502;&amp;#1488;&amp;#1493;&amp;#1505;&amp;#1507; &amp;#1491;&amp;#1493;&amp;#1511;&amp;#1496;&amp;#1493;&amp;#1512; &amp;#1492;&amp;#1488;&amp;#1512;&amp;#1497; &amp;#1508;&amp;#1512;&amp;#1497;&amp;#1491;&amp;#1504;&amp;#1493;&amp;#1493;&amp;#1488;&amp;#1500;&amp;#1491; &amp;#1500;&amp;#1514;&amp;#1493;&amp;#1500;&amp;#1491;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1508;&amp;#1493;&amp;#1488;&amp;#1492;, &amp;#1493;&amp;#1489;&amp;#1493; &amp;#1489;&amp;#1497;&amp;#1503; &amp;#1492;&amp;#1513;&amp;#1488;&amp;#1512; &amp;#1499;&amp;#1514;&amp;#1489;&amp;#1497; &amp;#1497;&amp;#1491; &amp;#1493;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1496;&amp;#1497; &amp;#1491;&amp;#1508;&amp;#1493;&amp;#1505; &amp;#1504;&amp;#1491;&amp;#1497;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1502;&amp;#1497;&amp;#1502;&amp;#1497; &amp;#1492;&amp;#1489;&amp;#1497;&amp;#1504;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1493;&amp;#1512;&amp;#1488;&amp;#1513;&amp;#1497;&amp;#1514; &amp;#1492;&amp;#1506;&amp;#1514; &amp;#1492;&amp;#1495;&amp;#1491;&amp;#1513;&amp;#1492; &amp;#1492;&amp;#1506;&amp;#1493;&amp;#1505;&amp;#1511;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1514;&amp;#1493;&amp;#1500;&amp;#1491;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1508;&amp;#1493;&amp;#1488;&amp;#1492;, &amp;#1493;&amp;#1489;&amp;#1506;&amp;#1497;&amp;#1511;&amp;#1512; &amp;#1489;&amp;#1512;&amp;#1508;&amp;#1493;&amp;#1488;&amp;#1492; &amp;#1489;&amp;#1511;&amp;#1512;&amp;#1489; &amp;#1492;&amp;#1506;&amp;#1501; &amp;#1492;&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:28.383 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:42:50.932 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>896DA51D-AE5B-A8E1-BA7B-69164EB1552C</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>4504BA63-8A03-E369-3B65-6AA7A2D71392</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+p.msonormal {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+p.msofootnotetext {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 10.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+span.msofootnotereference {
+vertical-align: super;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;#1495;&amp;#1494;&amp;#1512;&amp;#1514;&amp;#1497; &amp;#1506;&amp;#1500; &amp;#1506;&amp;#1511;&amp;#1489;&amp;#1493;&amp;#1514;&amp;#1497;&amp;#1497; &amp;#1502;&amp;#1503; &amp;#1492;&amp;#1504;&amp;#1463;&amp;#1512;&amp;#1456;&amp;#1514;&amp;#1461;&amp;#1511;&amp;#1456;&amp;#1505; &amp;#1488;&amp;#1500; &amp;#1513;&amp;#1506;&amp;#1512; &amp;#1492;&amp;#1511;&amp;#1497;&amp;#1505;&amp;#1512; &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1500;&amp;#1512;&amp;#1488;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1499;&amp;#1504;&amp;#1505;&amp;#1497;&amp;#1497;&amp;#1492; &amp;#1500;&amp;#1499;&amp;#1500; &amp;#1512;&amp;#1493;&amp;#1495;&amp;#1489;&amp;#1492;. &amp;#1494;&amp;#1492; &amp;#1502;&amp;#1493;&amp;#1494;&amp;#1512;, &amp;#1488;&amp;#1489;&amp;#1500; &amp;#1504;&amp;#1491;&amp;#1502;&amp;#1492; &amp;#1513;&amp;#1492;&amp;#1492;&amp;#1490;&amp;#1497;&amp;#1492; &amp;#1505;&amp;#1493;&amp;#1508;&amp;#1497;&amp;#1492; &amp;#1504;&amp;#1489;&amp;#1504;&amp;#1514;&amp;#1492;, &amp;#1499;&amp;#1498; &amp;#1513;&amp;#1514;&amp;#1502;&amp;#1497;&amp;#1491; &amp;#1514;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1514; &amp;#1502;&amp;#1489;&amp;#1496;&amp;#1498; &amp;#1500;&amp;#1512;&amp;#1511;&amp;#1497;&amp;#1506;&amp;#1497;&amp;#1501; &amp;#1493;&amp;#1500;&amp;#1506;&amp;#1493;&amp;#1500;&amp;#1501; &amp;#1500;&amp;#1488; &amp;#1514;&amp;#1504;&amp;#1502;&amp;#1497;&amp;#1498; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1493;. &amp;#1500;&amp;#1513;&amp;#1493;&amp;#1493;&amp;#1488; &amp;#1488;&amp;#1514;&amp;#1492; &amp;#1502;&amp;#1504;&amp;#1505;&amp;#1492; &amp;#1500;&amp;#1497;&amp;#1497;&amp;#1510;&amp;#1489; &amp;#1488;&amp;#1514; &amp;#1502;&amp;#1489;&amp;#1496;&amp;#1498; &amp;#1506;&amp;#1500; &amp;#1492;&amp;#1495;&amp;#1500;&amp;#1511;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1514;&amp;#1495;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501;, &amp;#1492;&amp;#1488;&amp;#1512;&amp;#1510;&amp;#1497;&amp;#1497;&amp;#1501;, &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1497;&amp;#1495;&amp;#1502;&amp;#1493;&amp;#1511; &amp;#1514;&amp;#1502;&amp;#1497;&amp;#1491; &amp;#1488;&amp;#1461;&amp;#1500;&amp;#1461;&amp;#1497; &amp;#1492;&amp;#1495;&amp;#1500;&amp;#1511;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1506;&amp;#1500;&amp;#1497;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501;, &amp;#1488;&amp;#1500; &amp;#1492;&amp;#1506;&amp;#1502;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1501;, &amp;#1488;&amp;#1500; &amp;#1492;&amp;#1490;&amp;#1500;&amp;#1512;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1500; &amp;#1506;&amp;#1494;&amp;#1512;&amp;#1514;-&amp;#1492;&amp;#1504;&amp;#1513;&amp;#1497;&amp;#1501;, &amp;#1488;&amp;#1500; &amp;#1492;&amp;#1499;&amp;#1497;&amp;#1508;&amp;#1493;&amp;#1514; &amp;#1493;&amp;#1488;&amp;#1500; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1501; &amp;#1492;&amp;#1495;&amp;#1500;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514;, &amp;#1492;&amp;#1502;&amp;#1488;&amp;#1497;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1504;&amp;#1512;&amp;#1514;&amp;#1511;&amp;#1505; &amp;#1489;&amp;#1502;&amp;#1513;&amp;#1474;&amp;#1493;&amp;#1468;&amp;#1512;&amp;#1492;, &amp;#1489;&amp;#1488;&amp;#1493;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1493;&amp;#1489;&amp;#1510;&amp;#1500;&amp;#1500;&amp;#1497;&amp;#1501;. &amp;#1491;&amp;#1489;&amp;#1512; &amp;#1494;&amp;#1492; &amp;#1500;&amp;#1489;&amp;#1496;&amp;#1495; &amp;#1511;&amp;#1513;&amp;#1493;&amp;#1512; &amp;#1489;&amp;#1514;&amp;#1495;&amp;#1493;&amp;#1513;&amp;#1514; &amp;#1492;&amp;#1497;&amp;#1512;&amp;#1488;&amp;#1492; &amp;#1513;&amp;#1502;&amp;#1502;&amp;#1500;&amp;#1488;&amp;#1514; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1498; &amp;#1489;&amp;#1489;&amp;#1493;&amp;#1488;&amp;#1498; &amp;#1500;&amp;#1499;&amp;#1504;&amp;#1505;&amp;#1497;&amp;#1497;&amp;#1492;. &amp;#1502;&amp;#1510;&amp;#1491; &amp;#1513;&amp;#1504;&amp;#1497;, &amp;#1499;&amp;#1500; &amp;#1497;&amp;#1493;&amp;#1508;&amp;#1497;&amp;#1497;&amp;#1492; &amp;#1513;&amp;#1500; &amp;#1499;&amp;#1504;&amp;#1505;&amp;#1497;&amp;#1497;&amp;#1492; &amp;#1494;&amp;#1493; &amp;#1504;&amp;#1502;&amp;#1510;&amp;#1488; &amp;#1489;&amp;#1495;&amp;#1500;&amp;#1511;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1506;&amp;#1500;&amp;#1497;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501;, &amp;#1499;&amp;#1498; &amp;#1513;&amp;#1504;&amp;#1490;&amp;#1494;&amp;#1512; &amp;#1506;&amp;#1500;&amp;#1497;&amp;#1498; &amp;#1500;&amp;#1492;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1514; &amp;#1512;&amp;#1488;&amp;#1513;&amp;#1498; &amp;#1506;&amp;#1500;-&amp;#1502;&amp;#1504;&amp;#1514; &amp;#1500;&amp;#1492;&amp;#1514;&amp;#1508;&amp;#1506;&amp;#1500; &amp;#1502;&amp;#1502;&amp;#1504;&amp;#1493;. &amp;#1495;&amp;#1497;&amp;#1508;&amp;#1513;&amp;#1514;&amp;#1497; &amp;#1502;&amp;#1497;&amp;#1513;&amp;#1492;&amp;#1493; &amp;#1513;&amp;#1502;&amp;#1505;&amp;#1514;&amp;#1499;&amp;#1500; &amp;#1500;&amp;#1502;&amp;#1496;&amp;#1492; &amp;#1488;&amp;#1493; &amp;#1502;&amp;#1505;&amp;#1489;&amp;#1497;&amp;#1489;&amp;#1493; &amp;#1488;&amp;#1498; &amp;#1500;&amp;#1513;&amp;#1493;&amp;#1493;&amp;#1488;.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot; text-align: right;&amp;quot;&amp;gt;&amp;amp;#160;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:28.310 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 11:49:45.554 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>532DF13B-512F-EA42-B5D6-57DA9D0392F6</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;DefaultStyle&amp;quot; style=&amp;quot; text-align: right;&amp;quot;&amp;gt;&amp;lt;span dir=&amp;quot;RTL&amp;quot; style=&amp;quot; font-size: 12.0pt; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;#1489;&amp;#1502;&amp;#1492;&amp;#1500;&amp;#1498; 400 &amp;#1513;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1513;&amp;#1500;&amp;#1496;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1506;&amp;#1493;&amp;#1514;&amp;apos;&amp;#1502;&amp;#1488;&amp;#1504;&amp;#1497; (1430 &amp;#8211; 1821&amp;#1489;&amp;#1488;&amp;#1494;&amp;#1493;&amp;#1512; &amp;#1492;&amp;#1490;&amp;#1497;&amp;#1488;&amp;#1493;&amp;#1490;&amp;#1512;&amp;#1508;&amp;#1497; &amp;#1513;&amp;#1492;&amp;#1497;&amp;#1492; &amp;#1489;&amp;#1506;&amp;#1489;&amp;#1512; &amp;#1492;&amp;#1488;&amp;#1497;&amp;#1502;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1489;&amp;#1497;&amp;#1494;&amp;#1504;&amp;#1496;&amp;#1497;&amp;#1514;, &amp;#1492;&amp;#1513;&amp;#1500;&amp;#1496;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1506;&amp;#1493;&amp;#1514;&amp;#1502;&amp;apos;&amp;#1488;&amp;#1504;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1514;&amp;#1497;&amp;#1497;&amp;#1495;&amp;#1505;&amp;#1493; &amp;#1488;&amp;#1500; &amp;#1492;&amp;#1504;&amp;#1493;&amp;#1510;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1488;&amp;#1493;&amp;#1512;&amp;#1514;&amp;#1493;&amp;#1491;&amp;#1493;&amp;#1511;&amp;#1505;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1493;&amp;#1488;&amp;#1500; &amp;#1492;&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1501; &amp;#1499;&amp;#1488;&amp;#1500; &amp;#1489;&amp;#1504;&amp;#1497;-&amp;#1495;&amp;#1505;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1493;&amp;#1493;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1494;&amp;#1499;&amp;#1493;&amp;#1497;&amp;#1493;&amp;#1514;&amp;#1497;&amp;#1492;&amp;#1501; &amp;#1493;&amp;#1489;&amp;#1495;&amp;#1493;&amp;#1489;&amp;#1493;&amp;#1514;&amp;#1497;&amp;#1492;&amp;#1501;. &amp;#1502;&amp;#1510;&amp;#1497;&amp;#1488;&amp;#1493;&amp;#1514; &amp;#1494;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1504;&amp;#1497;&amp;#1506;&amp;#1492; &amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1508;&amp;#1488;&amp;#1497;&amp;#1501; &amp;#1493;&amp;#1488;&amp;#1497;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1512;&amp;#1489;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1492;&amp;#1514;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1489; &amp;#1489;&amp;#1513;&amp;#1496;&amp;#1495;&amp;#1497;&amp;#1501; &amp;#1506;&amp;#1493;&amp;#1514;&amp;apos;&amp;#1502;&amp;#1488;&amp;#1504;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1493;&amp;#1490;&amp;#1512;&amp;#1502;&amp;#1492; &amp;#1500;&amp;#1492;&amp;#1501; &amp;#1500;&amp;#1492;&amp;#1494;&amp;#1491;&amp;#1492;&amp;#1493;&amp;#1514; &amp;#1506;&amp;#1501; &amp;#1492;&amp;#1488;&amp;#1497;&amp;#1502;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1506;&amp;#1493;&amp;#1514;&amp;apos;&amp;#1502;&amp;#1488;&amp;#1504;&amp;#1497;&amp;#1514;.&amp;amp;#160;&amp;#1494;&amp;#1493; &amp;#1492;&amp;#1497;&amp;#1497;&amp;#1514;&amp;#1492; &amp;#1490;&amp;#1501; &amp;#1488;&amp;#1495;&amp;#1514; &amp;#1492;&amp;#1505;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1506;&amp;#1497;&amp;#1511;&amp;#1512;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1500;&amp;#1499;&amp;#1498; &amp;#1513;&amp;#1504;&amp;#1493;&amp;#1510;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1493;&amp;#1512;&amp;#1514;&amp;#1493;&amp;#1491;&amp;#1493;&amp;#1499;&amp;#1505;&amp;#1497;&amp;#1501;,&amp;amp;#160;&amp;#1488;&amp;#1513;&amp;#1512; &amp;#1492;&amp;#1497;&amp;#1493; &amp;#1488;&amp;#1491;&amp;#1493;&amp;#1504;&amp;#1497; &amp;#1492;&amp;#1488;&amp;#1512;&amp;#1509; &amp;#1489;&amp;#1506;&amp;#1489;&amp;#1512;,&amp;amp;#160;&amp;#1505;&amp;#1500;&amp;#1491;&amp;#1493; &amp;#1502;&amp;#1503; &amp;#1492;&amp;#1506;&amp;#1493;&amp;#1489;&amp;#1491;&amp;#1492; &amp;#1499;&amp;#1497; &amp;#1492;&amp;#1501; &amp;#1494;&amp;#1493;&amp;#1499;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1488;&amp;#1493;&amp;#1514;&amp;#1493; &amp;#1497;&amp;#1495;&amp;#1505; &amp;#1500;&amp;#1493; &amp;#1494;&amp;#1493;&amp;#1499;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1501;.&amp;amp;#160;&amp;#1505;&amp;#1500;&amp;#1497;&amp;#1491;&amp;#1492; &amp;#1494;&amp;#1493; &amp;#1490;&amp;#1512;&amp;#1502;&amp;#1492;&amp;amp;#160;&amp;#1500;&amp;#1506;&amp;#1514;&amp;#1497;&amp;#1501; &amp;#1511;&amp;#1512;&amp;#1493;&amp;#1489;&amp;#1493;&amp;#1514;&amp;amp;#160;&amp;#1500;&amp;#1514;&amp;#1511;&amp;#1512;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1504;&amp;#1496;&amp;#1497;&amp;#1513;&amp;#1502;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1489;&amp;#1488;&amp;#1493;&amp;#1514;&amp;#1503;&amp;amp;#160;&amp;#1506;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1506;&amp;#1493;&amp;#1514;&amp;apos;&amp;#1502;&amp;#1488;&amp;#1504;&amp;#1497;&amp;#1493;&amp;#1514;&amp;amp;#160;&amp;#1488;&amp;#1513;&amp;#1512;&amp;amp;#160;&amp;#1502;&amp;#1512;&amp;#1489;&amp;#1497;&amp;#1514; &amp;#1514;&amp;#1493;&amp;#1513;&amp;#1489;&amp;#1497;&amp;#1492;&amp;#1503; &amp;#1492;&amp;#1497;&amp;#1493;&amp;amp;#160;&amp;#1504;&amp;#1493;&amp;#1510;&amp;#1512;&amp;#1497;&amp;#1501;&amp;amp;#160;&amp;#1488;&amp;#1493;&amp;#1512;&amp;#1514;&amp;#1493;&amp;#1491;&amp;#1493;&amp;#1499;&amp;#1505;&amp;#1497;&amp;#1497;&amp;#1501;, &amp;#1488;&amp;#1498; &amp;#1500;&amp;#1488; &amp;#1489;&amp;#1505;&amp;#1500;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1511;&amp;#1497; &amp;#1489;&amp;#1492; &amp;#1492;&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1497;&amp;#1493; &amp;#1512;&amp;#1493;&amp;#1489;.&amp;amp;#160;&amp;#1492;&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1501; &amp;#1504;&amp;#1514;&amp;#1508;&amp;#1505;&amp;#1493; &amp;#1506;&amp;#1500; &amp;#1497;&amp;#1491;&amp;#1497; &amp;#1492;&amp;#1497;&amp;#1493;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1499;&amp;#1489;&amp;#1506;&amp;#1500;&amp;#1497; &amp;#1489;&amp;#1512;&amp;#1497;&amp;#1514;&amp;#1501; &amp;#1492;&amp;#1496;&amp;#1489;&amp;#1506;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1513;&amp;#1500;&amp;#1497;&amp;#1496;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1502;&amp;#1493;&amp;#1505;&amp;#1500;&amp;#1502;&amp;#1497;&amp;#1501;.&amp;amp;#160;&amp;#1500;&amp;#1508;&amp;#1497;&amp;#1499;&amp;#1498;,&amp;amp;#160;&amp;#1489;&amp;#1497;&amp;#1497;&amp;#1495;&amp;#1493;&amp;#1491; &amp;#1489;&amp;#1502;&amp;#1492;&amp;#1500;&amp;#1498; &amp;#1492;&amp;#1514;&amp;#1511;&amp;#1493;&amp;#1508;&amp;#1492; &amp;#1489;&amp;#1492; &amp;#1492;&amp;#1497;&amp;#1493;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1504;&amp;#1488;&amp;#1489;&amp;#1511;&amp;#1493; &amp;#1500;&amp;#1492;&amp;#1513;&amp;#1490;&amp;#1514; &amp;#1495;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1514;&amp;#1501; &amp;#1493;&amp;#1500;&amp;#1488;&amp;#1495;&amp;#1512; &amp;#1502;&amp;#1499;&amp;#1503; &amp;#1500;&amp;#1492;&amp;#1512;&amp;#1495;&amp;#1497;&amp;#1489; &amp;#1488;&amp;#1514; &amp;#1513;&amp;#1496;&amp;#1495; &amp;#1502;&amp;#1491;&amp;#1497;&amp;#1504;&amp;#1514;&amp;#1501; (&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;DefaultStyle&amp;quot; style=&amp;quot; text-align: right;&amp;quot;&amp;gt;&amp;lt;span dir=&amp;quot;RTL&amp;quot; style=&amp;quot; font-size: 12.0pt; font-family: David,sans-serif;&amp;quot;&amp;gt;1821&amp;amp;#160;-&amp;amp;#160;1912),&amp;amp;#160;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;DefaultStyle&amp;quot; style=&amp;quot; text-align: right;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: x-large;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; color: #000000;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; background-color: #F59D56;&amp;quot;&amp;gt;&amp;#1492;&amp;#1492;&amp;#1491;&amp;#1489;&amp;#1511;&amp;#1492; &amp;#1513;&amp;#1500; &amp;#1496;&amp;#1511;&amp;#1505;&amp;#1496; &amp;#1489;&amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1514; &amp;#1500;&amp;#1488; &amp;#1506;&amp;#1493;&amp;#1489;&amp;#1491;&amp;#1514; &amp;#1496;&amp;#1493;&amp;#1489; &amp;#1489;&amp;#1490;&amp;#1500;&amp;#1500; &amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1512; &amp;#1500;&amp;#1513;&amp;#1502;&amp;#1488;&amp;#1500; &amp;#1513;&amp;#1488;&amp;#1504;&amp;#1497; &amp;#1500;&amp;#1488; &amp;#1512;&amp;#1493;&amp;#1488;&amp;#1492; &amp;#1488;&amp;#1497;&amp;#1498; &amp;#1500;&amp;#1514;&amp;#1511;&amp;#1504;&amp;#1493; &amp;#1489;&amp;#1502;&amp;#1493;&amp;#1495;, &amp;#1499;&amp;#1502;&amp;#1493;-&amp;#1499;&amp;#1503; &amp;#1489;&amp;#1514;&amp;#1502;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1497;&amp;#1503; &amp;#1488;&amp;#1508;&amp;#1513;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1500;&amp;#1499;&amp;#1514;&amp;#1493;&amp;#1489; &amp;#1490;&amp;#1512;&amp;#1513;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1512;&amp;#1488;&amp;#1513;&amp;#1497; &amp;#1492;&amp;#1514;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:28.204 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:46:47.101 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>8D3CC129-0BBB-ADE5-48EA-B7C985D229E9</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>82E599B4-743F-E479-ECDA-1F0B8FC4E538</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;DefaultStyle&amp;quot; style=&amp;quot; margin-left: 14.2pt; text-align: right;&amp;quot;&amp;gt;&amp;lt;b&amp;gt;&amp;lt;span dir=&amp;quot;RTL&amp;quot; style=&amp;quot; font-size: 14.0pt; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;#1499;&amp;#1514;&amp;#1489; &amp;#1492;&amp;#1497;&amp;#1491; &amp;#1492;&amp;#1502;&amp;#1493;&amp;#1508;&amp;#1497;&amp;#1506; &amp;#1500;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1499;&amp;#1501; &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1495;&amp;#1500;&amp;#1511; &amp;#1502;&amp;#1495;&amp;#1511;&amp;#1497;&amp;#1512;&amp;#1514;&amp;#1493; &amp;#1513;&amp;#1500; &amp;#1504;&amp;#1497;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1503; &amp;#1493;&amp;#1504;&amp;#1505;&amp;#1497;&amp;#1493;&amp;#1504;&amp;#1493; &amp;#1500;&amp;#1508;&amp;#1506;&amp;#1504;&amp;#1495; &amp;#1504;&amp;#1489;&amp;#1493;&amp;#1488;&amp;#1492; &amp;#1494;&amp;#1493;, &amp;#1493;&amp;#1502;&amp;#1514;&amp;#1493;&amp;#1488;&amp;#1512;&amp;#1498; &amp;#1500;&amp;#1488;&amp;#1495;&amp;#1512; 1675 &amp;#1493;&amp;#1500;&amp;#1508;&amp;#1504;&amp;#1497; 1685.&amp;amp;#160; &amp;#1499;&amp;#1514;&amp;#1489; &amp;#1492;&amp;#1497;&amp;#1491; &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1512;&amp;#1489;-&amp;#1500;&amp;#1513;&amp;#1493;&amp;#1504;&amp;#1497;, &amp;#1493;&amp;#1502;&amp;#1499;&amp;#1497;&amp;#1500; &amp;#1512;&amp;#1513;&amp;#1497;&amp;#1502;&amp;#1493;&amp;#1514; &amp;#1489;&amp;#1500;&amp;#1496;&amp;#1497;&amp;#1504;&amp;#1497;&amp;#1514; &amp;#8211; &amp;#1513;&amp;#1508;&amp;#1514; &amp;#1492;&amp;#1495;&amp;#1511;&amp;#1497;&amp;#1512;&amp;#1492; &amp;#1492;&amp;#1502;&amp;#1491;&amp;#1506;&amp;#1497;&amp;#1514; &amp;#1489;&amp;#1497;&amp;#1502;&amp;#1497;&amp;#1493; &amp;#1513;&amp;#1500; &amp;#1504;&amp;#1497;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1503;, &amp;#1497;&amp;#1493;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1514; &amp;#1488;&amp;#1512;&amp;#1502;&amp;#1497;&amp;#1514; &amp;#1493;&amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1514;.&amp;amp;#160; &amp;#1504;&amp;#1497;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1506;&amp;#1514;&amp;#1497;&amp;#1511; &amp;#1508;&amp;#1505;&amp;#1493;&amp;#1511;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1514; &amp;#1493;&amp;#1489;&amp;#1488;&amp;#1512;&amp;#1502;&amp;#1497;&amp;#1514; &amp;#1502;&amp;#1503; &amp;#1492;&amp;#1502;&amp;#1511;&amp;#1493;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#8211; &amp;#1499;&amp;#1508;&amp;#1497; &amp;#1513;&amp;#1504;&amp;#1497;&amp;#1514;&amp;#1503; &amp;#1500;&amp;#1512;&amp;#1488;&amp;#1493;&amp;#1514; &amp;#1489;&amp;#1491;&amp;#1507; &amp;#1494;&amp;#1492; &amp;#8211; &amp;quot;&amp;#1489;&amp;#1512;&amp;#1493;&amp;#1498; &amp;#1513;&amp;#1501; &amp;#1499;&amp;#1489;&amp;#1493;&amp;#1491; &amp;#1502;&amp;#1500;&amp;#1499;&amp;#1493;&amp;#1514;&amp;#1493; &amp;#1500;&amp;#1506;&amp;#1493;&amp;#1500;&amp;#1501; &amp;#1493;&amp;#1506;&amp;#1491;&amp;quot; &amp;#1493;&amp;#1489;&amp;#1488;&amp;#1512;&amp;#1502;&amp;#1497;&amp;#1514; &amp;#8211; &amp;quot;&amp;#1514;&amp;#1488; &amp;#1495;&amp;#1494;&amp;#1497;&amp;quot;, &amp;#1489;&amp;#1493;&amp;#1488; &amp;#1512;&amp;#1488;&amp;#1492;, &amp;#1493;&amp;quot;&amp;#1514;&amp;#1488; &amp;#1513;&amp;#1502;&amp;#1506;&amp;quot; &amp;#1489;&amp;#1493;&amp;#1488; &amp;#1513;&amp;#1502;&amp;#1506;, &amp;#1500;&amp;#1497;&amp;#1491; &amp;#1510;&amp;#1497;&amp;#1496;&amp;#1493;&amp;#1496;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1500;&amp;#1493; &amp;#1504;&amp;#1497;&amp;#1514;&amp;#1503; &amp;#1500;&amp;#1512;&amp;#1488;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1508;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1513; &amp;#1492;&amp;#1500;&amp;#1496;&amp;#1497;&amp;#1504;&amp;#1497; &amp;#1513;&amp;#1499;&amp;#1514;&amp;#1489; &amp;#1504;&amp;#1497;&amp;#1496;&amp;#1493;&amp;#1503; &amp;#1500;&amp;#1502;&amp;#1497;&amp;#1500;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1500;&amp;#1493; &amp;#8211; &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot; font-size: 14.0pt; font-family: &amp;apos;Times New Roman&amp;apos;, serif;&amp;quot;&amp;gt;&amp;quot;veni vide&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;span dir=&amp;quot;RTL&amp;quot; style=&amp;quot; font-size: 14.0pt; font-family: David,sans-serif;&amp;quot;&amp;gt;, &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot; font-size: 14.0pt; font-family: &amp;apos;Times New Roman&amp;apos;, serif;&amp;quot;&amp;gt;&amp;quot;veni audi&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;span dir=&amp;quot;RTL&amp;quot; style=&amp;quot; font-size: 14.0pt; font-family: David,sans-serif;&amp;quot;&amp;gt;.&amp;amp;#160; &amp;#1504;&amp;#1497;&amp;#1496;&amp;#1493;&amp;#1503; &amp;#1504;&amp;#1506;&amp;#1494;&amp;#1512; &amp;#1489;&amp;#1499;&amp;#1514;&amp;#1489;&amp;#1497;&amp;#1492;&amp;#1501; &amp;#1513;&amp;#1500; &amp;#1502;&amp;#1500;&amp;#1493;&amp;#1502;&amp;#1491;&amp;#1497;&amp;#1501; &amp;#1499;&amp;#1502;&amp;#1493; &amp;#1492;&amp;#1492;&amp;#1489;&amp;#1512;&amp;#1488;&amp;#1497;&amp;#1505;&amp;#1496; &amp;#1497;&amp;#1493;&amp;#1492;&amp;#1488;&amp;#1503; &amp;#1489;&amp;#1493;&amp;#1511;&amp;#1505;&amp;#1496;&amp;#1493;&amp;#1512;&amp;#1507; &amp;#1493;&amp;#1500;&amp;#1493;&amp;#1488;&amp;#1497;&amp;#1505; &amp;#1511;&amp;#1488;&amp;#1508;&amp;#1500;&amp;#1493;&amp;#1505;, &amp;#1488;&amp;#1513;&amp;#1512; &amp;#1502;&amp;#1499;&amp;#1514;&amp;#1489;&amp;#1497;&amp;#1493; &amp;#1500;&amp;#1502;&amp;#1491; &amp;#1489;&amp;#1506;&amp;#1511;&amp;#1497;&amp;#1508;&amp;#1497;&amp;#1503; &amp;#1488;&amp;#1493;&amp;#1491;&amp;#1493;&amp;#1514; &amp;#1508;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1513;&amp;#1493; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1506;&amp;#1497; &amp;#1493;&amp;#1497;&amp;#1500;&amp;#1488;&amp;#1500;&amp;#1508;&amp;#1504;&amp;#1491;&amp;#1493;&amp;#1505; &amp;#1500;&amp;#1504;&amp;#1489;&amp;#1493;&amp;#1488;&amp;#1514; &amp;#1497;&amp;#1495;&amp;#1494;&amp;#1511;&amp;#1488;&amp;#1500;, &amp;#1499;&amp;#1498; &amp;#1513;&amp;#1488;&amp;#1504;&amp;#1493; &amp;#1512;&amp;#1493;&amp;#1488;&amp;#1497;&amp;#1501; &amp;#1499;&amp;#1497; &amp;#1492;&amp;#1511;&amp;#1512;&amp;#1497;&amp;#1488;&amp;#1492; &amp;#1489;&amp;#1514;&amp;#1504;&amp;quot;&amp;#1498; &amp;#1492;&amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497; &amp;#1493;&amp;#1492;&amp;#1504;&amp;#1505;&amp;#1497;&amp;#1493;&amp;#1503; &amp;#1500;&amp;#1491;&amp;#1500;&amp;#1493;&amp;#1514; &amp;#1502;&amp;#1497;&amp;#1491;&amp;#1506; &amp;#1504;&amp;#1489;&amp;#1493;&amp;#1488;&amp;#1497; &amp;#1493;&amp;#1488;&amp;#1508;&amp;#1497;&amp;#1500;&amp;#1493; &amp;#1488;&amp;#1508;&amp;#1493;&amp;#1511;&amp;#1500;&amp;#1497;&amp;#1508;&amp;#1496;&amp;#1497; &amp;#1502;&amp;#1514;&amp;#1493;&amp;#1499;&amp;#1493; &amp;#1500;&amp;#1488; &amp;#1492;&amp;#1497;&amp;#1493; &amp;#1502;&amp;#1504;&amp;#1514; &amp;#1495;&amp;#1500;&amp;#1511;&amp;#1493; &amp;#1513;&amp;#1500; &amp;#1504;&amp;#1497;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1503; &amp;#1489;&amp;#1500;&amp;#1489;&amp;#1491;, &amp;#1493;&amp;#1499;&amp;#1497; &amp;#1492;&amp;#1499;&amp;#1514;&amp;#1489;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1500;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1504;&amp;#1493; &amp;#1492;&amp;#1501; &amp;#1495;&amp;#1500;&amp;#1511; &amp;#1502;&amp;#1494;&amp;#1512;&amp;#1501; &amp;#1513;&amp;#1492;&amp;#1497;&amp;#1492; &amp;#1504;&amp;#1508;&amp;#1493;&amp;#1509; &amp;#1489;&amp;#1506;&amp;#1497;&amp;#1511;&amp;#1512; &amp;#1489;&amp;#1502;&amp;#1488;&amp;#1492; &amp;#1492;-17.&amp;amp;#160;&amp;lt;/span&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:28.244 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:19:38.033 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>8D52D439-8C95-37B4-ADBD-DDC4C20EF90D</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>FB6C82E3-22BC-35F8-A367-5AAB2732BB40</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+p.msonormal {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; line-height: 150%; text-align: right;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;quot;&amp;#1489;&amp;#1497;&amp;#1514; &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512; &amp;#1492;&amp;#1506;&amp;#1502;&amp;#1502;&amp;#1497; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1512;&amp;#1493;&amp;#1502;&amp;#1488;&amp;#1497;&amp;#1501; &amp;#1504;&amp;#1502;&amp;#1510;&amp;#1488; &amp;#1500;&amp;#1502;&amp;#1506;&amp;#1500;&amp;#1492;, &amp;#1489;&amp;#1513;&amp;#1491;&amp;#1512;&amp;#1492; &amp;#1492;&amp;#1502;&amp;#1512;&amp;#1499;&amp;#1494;&amp;#1497;&amp;#1514;&amp;quot; &amp;#1492;&amp;#1505;&amp;#1489;&amp;#1497;&amp;#1512; &amp;#1500;&amp;#1497; &amp;#1502;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1496;, &amp;quot;&amp;#1488;&amp;#1514;&amp;#1492; &amp;#1502;&amp;#1489;&amp;#1497;&amp;#1503;&amp;quot; &amp;#1492;&amp;#1502;&amp;#1513;&amp;#1497;&amp;#1498; &amp;#1489;&amp;#1495;&amp;#1497;&amp;#1493;&amp;#1498;, &amp;quot;&amp;#1492;&amp;#1512;&amp;#1493;&amp;#1502;&amp;#1488;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1497;&amp;#1493; &amp;#1506;&amp;#1513;&amp;#1497;&amp;#1512;&amp;#1497;&amp;#1501;, &amp;#1492;&amp;#1497;&amp;#1493; &amp;#1500;&amp;#1492;&amp;#1501; &amp;#1489;&amp;#1514;&amp;#1497; &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512; &amp;#1492;&amp;#1496;&amp;#1493;&amp;#1489;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1497;&amp;#1493;&amp;#1514;&amp;#1512;, &amp;#1492;&amp;#1489;&amp;#1514;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1496;&amp;#1493;&amp;#1489;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1497;&amp;#1493;&amp;#1514;&amp;#1512;, &amp;#1492;&amp;#1493;&amp;#1497;&amp;#1500;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1496;&amp;#1493;&amp;#1489;&amp;#1493;&amp;#1514; &amp;#1489;&amp;#1497;&amp;#1493;&amp;#1514;&amp;#1512;.&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; line-height: 150%; text-align: right;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;#1497;&amp;#1499;&amp;#1493;&amp;#1500; &amp;#1500;&amp;#1492;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1510;&amp;#1491;&amp;#1511;, &amp;#1488;&amp;#1489;&amp;#1500; &amp;#1492;&amp;#1513;&amp;#1499;&amp;#1493;&amp;#1504;&amp;#1492; &amp;#1492;&amp;#1497;&amp;#1514;&amp;#1492; &amp;#1497;&amp;#1513;&amp;#1504;&amp;#1492;, &amp;#1493;&amp;#1502;&amp;#1492; &amp;#1513;&amp;#1492;&amp;#1497;&amp;#1492; &amp;#1500;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1491;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1512;&amp;#1499;&amp;#1494;&amp;#1497;&amp;#1514; &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1489;&amp;#1497;&amp;#1502;&amp;#1497;&amp;#1504;&amp;#1493; &amp;#1512;&amp;#1495;&amp;#1493;&amp;#1489; &amp;#1510;&amp;#1512;, &amp;#1513;&amp;#1489;&amp;#1493; &amp;#1492;&amp;#1514;&amp;#1504;&amp;#1493;&amp;#1506;&amp;#1492; &amp;#1504;&amp;#1514;&amp;#1511;&amp;#1506;&amp;#1514; &amp;#1493;&amp;#1492;&amp;#1504;&amp;#1492;&amp;#1490;&amp;#1497;&amp;#1501; &amp;#1510;&amp;#1493;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1493;&amp;#1502;&amp;#1511;&amp;#1500;&amp;#1500;&amp;#1497;&amp;#1501; &amp;#1494;&amp;#1492; &amp;#1488;&amp;#1514; &amp;#1494;&amp;#1492; &amp;#1489;&amp;#1488;&amp;#1493;&amp;#1514;&amp;#1492; &amp;#1492;&amp;#1502;&amp;#1513;&amp;#1496;&amp;#1502;&amp;#1492; &amp;#1502;&amp;#1502;&amp;#1513; &amp;#1499;&amp;#1502;&amp;#1493; &amp;#1489;&amp;#1488;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1492;.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:30.470 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 13:42:36.971 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>AC74A246-C419-245F-1C3F-1C067689AFDF</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>0364CF7B-3F0B-C121-C39B-5D4439E226F6</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+p.msonormal {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;#1488;&amp;#1514;&amp;#1492; &amp;#1506;&amp;#1493;&amp;#1502;&amp;#1491; &amp;#1500;&amp;#1495;&amp;#1493;&amp;#1507; &amp;#1511;&amp;#1512;&amp;#1503; &amp;#1492;&amp;#1494;&amp;#1492;&amp;#1489; &amp;#1493;&amp;#1489;&amp;#1497;&amp;#1503; &amp;#1489;&amp;#1514;&amp;#1497;&amp;#1501; &amp;#1502;&amp;#1496;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1504;&amp;#1508;&amp;#1493;&amp;#1500; &amp;#1502;&amp;#1489;&amp;#1496;&amp;#1498; &amp;#1508;&amp;#1493;&amp;#1490;&amp;#1513; &amp;#1489;&amp;#1502;&amp;#1490;&amp;#1491;&amp;#1500; &amp;#1492;&amp;#1493;&amp;#1504;&amp;#1510;&amp;#1497;&amp;#1488;&amp;#1504;&amp;#1497; &amp;#1513;&amp;#1500; &amp;#1490;&amp;#1500;&amp;#1488;&amp;#1496;&amp;#1492;, &amp;#1488;&amp;#1514;&amp;#1492; &amp;#1502;&amp;#1514;&amp;#1508;&amp;#1506;&amp;#1500; &amp;#1502;&amp;#1492;&amp;#1506;&amp;#1514;&amp;#1497;&amp;#1511;&amp;#1493;&amp;#1514; &amp;#1489;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1504;&amp;#1511;&amp;#1497;&amp;#1508;&amp;#1493;, &amp;#1502;&amp;#1490;&amp;#1497;&amp;#1506; &amp;#1488;&amp;#1495;&amp;#1512; &amp;#1492;&amp;#1510;&amp;#1492;&amp;#1512;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1464;&amp;#1506;&amp;#1497;&amp;#1512; &amp;#1493;&amp;#1502;&amp;#1493;&amp;#1510;&amp;#1488; &amp;#1488;&amp;#1514; &amp;#1506;&amp;#1510;&amp;#1502;&amp;#1498; &amp;#1500;&amp;#1508;&amp;#1514;&amp;#1506; &amp;#1489;&amp;#1488;&amp;#1502;&amp;#1510;&amp;#1506; &amp;#1502;&amp;#1512;&amp;#1499;&amp;#1494; &amp;#1502;&amp;#1505;&amp;#1495;&amp;#1512;&amp;#1497; &amp;#1506;&amp;#1504;&amp;#1511; &amp;#1488;&amp;#1489;&amp;#1500;, &amp;#1489;&amp;#1512;&amp;#1490;&amp;#1506; &amp;#1513;&amp;#1514;&amp;#1510;&amp;#1488;, &amp;#1514;&amp;#1497;&amp;#1508;&amp;#1493;&amp;#1500; &amp;#1506;&amp;#1500; &amp;#1513;&amp;#1499;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1499;&amp;#1493;&amp;#1500;&amp;#1503; &amp;#1506;&amp;#1512;&amp;#1489;&amp;#1493;&amp;#1489;&amp;#1497;&amp;#1497;&amp;#1492; &amp;#1513;&amp;#1500; &amp;#1506;&amp;#1494;&amp;#1493;&amp;#1489;&amp;#1492; &amp;#1493;&amp;#1495;&amp;#1504;&amp;#1493;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1511;&amp;#1496;&amp;#1504;&amp;#1493;&amp;#1514;. &amp;#1489;&amp;#1488;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1492;, &amp;#1492;&amp;#1497;&amp;#1499;&amp;#1503; &amp;#1513;&amp;#1492;&amp;#1502;&amp;#1506;&amp;#1491;&amp;#1512; &amp;#1513;&amp;#1500;&amp;#1498; &amp;#1497;&amp;#1497;&amp;#1508;&amp;#1493;&amp;#1500; &amp;#1514;&amp;#1502;&amp;#1510;&amp;#1488; &amp;#1506;&amp;#1514;&amp;#1497;&amp;#1511;&amp;#1493;&amp;#1514;, &amp;#1499;&amp;#1488;&amp;#1503;, &amp;#1488;&amp;#1501; &amp;#1514;&amp;#1497;&amp;#1514;&amp;#1503; &amp;#1502;&amp;#1499;&amp;#1514; &amp;#1502;&amp;#1506;&amp;#1491;&amp;#1512;, &amp;#1497;&amp;#1513; &amp;#1505;&amp;#1499;&amp;#1504;&amp;#1492; &amp;#1513;&amp;#1514;&amp;#1502;&amp;#1493;&amp;#1496;&amp;#1496; &amp;#1495;&amp;#1510;&amp;#1497; &amp;#1506;&amp;#1497;&amp;#1512;.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot; text-align: right;&amp;quot;&amp;gt;&amp;amp;#160;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:28.447 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:22:34.890 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>506F2876-199F-9284-C55C-3170751C3618</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>D6BBEBDF-00D3-DBD2-7736-78D520E0189C</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;DefaultStyle&amp;quot; style=&amp;quot; text-align: right;&amp;quot;&amp;gt;&amp;lt;span dir=&amp;quot;RTL&amp;quot; style=&amp;quot; font-size: 12.0pt; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;#1500;&amp;#1508;&amp;#1504;&amp;#1497; &amp;#1492;&amp;#1489;&amp;#1497;&amp;#1514; &amp;#1506;&amp;#1502;&amp;#1491; &amp;#1513;&amp;#1493;&amp;#1496;&amp;#1512; &amp;#1502;&amp;#1511;&amp;#1493;&amp;#1507;. &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1489;&amp;#1497;&amp;#1512;&amp;#1498; &amp;#1488;&amp;#1514; &amp;#1502;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1496; &amp;#1489;&amp;#1506;&amp;#1502;&amp;#1497;&amp;#1491;&amp;#1514; &amp;#1492;&amp;#1511;&amp;#1513;&amp;#1489;, &amp;#1508;&amp;#1514;&amp;#1495; &amp;#1489;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1493; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1491;&amp;#1500;&amp;#1514; &amp;#1493;&amp;#1500;&amp;#1497;&amp;#1493;&amp;#1493;&amp;#1492; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1493; &amp;#1488;&amp;#1500; &amp;#1514;&amp;#1493;&amp;#1498; &amp;#1492;&amp;#1489;&amp;#1497;&amp;#1514;. &amp;#1488;&amp;#1504;&amp;#1497; &amp;#1504;&amp;#1499;&amp;#1504;&amp;#1505;&amp;#1514;&amp;#1497; &amp;#1489;&amp;#1502;&amp;#1488;&amp;#1505;&amp;#1507;, &amp;#1499;&amp;#1504;&amp;#1512;&amp;#1488;&amp;#1492; &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1513;&amp;#1488;&amp;#1493;&amp;#1499;&amp;#1500; &amp;#1500;&amp;#1506;&amp;#1499;&amp;#1500; &amp;#1513;&amp;#1494;&amp;#1493; &amp;#1502;&amp;#1504;&amp;#1514;-&amp;#1495;&amp;#1500;&amp;#1511;&amp;#1497; &amp;#1489;&amp;#1514;&amp;#1497;&amp;#1511; &amp;#1502;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1495;&amp;#1488;&amp;#1489;&amp;#1493;. &amp;#1502;&amp;#1497;&amp;#1491; &amp;#1492;&amp;#1497;&amp;#1492; &amp;#1489;&amp;#1512;&amp;#1493;&amp;#1512; &amp;#1513;&amp;#1492;&amp;#1500;&amp;#1489;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1503; &amp;#1512;&amp;#1511; &amp;#1502;&amp;#1506;&amp;#1496;&amp;#1508;&amp;#1514;, &amp;#1513;&amp;#1499;&amp;#1503; &amp;#1508;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1489;&amp;#1497;&amp;#1514; &amp;#1492;&amp;#1497;&amp;#1492; &amp;#1506;&amp;#1513;&amp;#1493;&amp;#1497; &amp;#1502;&amp;#1506;&amp;#1509;. &amp;#1502;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1496; &amp;#1505;&amp;#1497;&amp;#1502;&amp;#1503; &amp;#1500;&amp;#1497; &amp;#1513;&amp;#1510;&amp;#1512;&amp;#1497;&amp;#1498; &amp;#1500;&amp;#1506;&amp;#1500;&amp;#1493;&amp;#1514; &amp;#1500;&amp;#1511;&amp;#1493;&amp;#1502;&amp;#1492; &amp;#1492;&amp;#1513;&amp;#1504;&amp;#1497;&amp;#1492;. &amp;#1506;&amp;#1500;&amp;#1497;&amp;#1504;&amp;#1493; &amp;#1489;&amp;#1490;&amp;#1512;&amp;#1501; &amp;#1513;&amp;#1500; &amp;#1502;&amp;#1491;&amp;#1512;&amp;#1490;&amp;#1493;&amp;#1514; &amp;#1506;&amp;#1509; &amp;#1513;&amp;#1492;&amp;#1505;&amp;#1514;&amp;#1497;&amp;#1497;&amp;#1502;&amp;#1493; &amp;#1489;&amp;#1505;&amp;#1500;&amp;#1493;&amp;#1503; &amp;#1502;&amp;#1512;&amp;#1493;&amp;#1493;&amp;#1495;, &amp;#1502;&amp;#1500;&amp;#1488; &amp;#1489;&amp;#1512;&amp;#1492;&amp;#1497;&amp;#1496;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1488;&amp;#1497;&amp;#1489;&amp;#1491;&amp;#1493; &amp;#1502;&amp;#1494;&amp;#1502;&amp;#1503; &amp;#1488;&amp;#1514; &amp;#1506;&amp;#1512;&amp;#1499;&amp;#1501; &amp;#1502;&amp;#1513;&amp;#1493;&amp;#1501; &amp;#1513;&amp;#1496;&amp;#1497;&amp;#1508;&amp;#1500;&amp;#1493; &amp;#1489;&amp;#1492;&amp;#1501; &amp;#1489;&amp;#1488;&amp;#1493;&amp;#1514;&amp;#1492; &amp;#1514;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1514; &amp;#1492;&amp;#1500;&amp;#1489; &amp;#1513;&amp;#1492;&amp;#1506;&amp;#1504;&amp;#1497;&amp;#1511;&amp;#1493; &amp;#1500;&amp;#1499;&amp;#1500; &amp;#1492;&amp;#1489;&amp;#1504;&amp;#1497;&amp;#1497;&amp;#1503;. &amp;#1512;&amp;#1511; &amp;#1513;&amp;#1499;&amp;#1488;&amp;#1503;, &amp;#1489;&amp;#1502;&amp;#1511;&amp;#1493;&amp;#1501; &amp;#1502;&amp;#1506;&amp;#1496;&amp;#1508;&amp;#1514; &amp;#1500;&amp;#1489;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1497;&amp;#1514;&amp;#1492; &amp;#1502;&amp;#1506;&amp;#1496;&amp;#1508;&amp;#1514; &amp;#1513;&amp;#1500; &amp;#1513;&amp;#1496;&amp;#1497;&amp;#1495; &amp;#1502;&amp;#1495;&amp;#1493;&amp;#1512;&amp;#1512; &amp;#1506;&amp;#1500; &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1492; &amp;#1493;&amp;#1513;&amp;#1502;&amp;#1497;&amp;#1499;&amp;#1493;&amp;#1514; &amp;#1506;&amp;#1500; &amp;#1492;&amp;#1499;&amp;#1493;&amp;#1512;&amp;#1505;&amp;#1488;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1502;&amp;#1490;&amp;#1493;&amp;#1500;&amp;#1508;&amp;#1493;&amp;#1514;. &amp;#1512;&amp;#1511; &amp;#1506;&amp;#1500; &amp;#1492;&amp;#1513;&amp;#1493;&amp;#1500;&amp;#1495;&amp;#1503; &amp;#1492;&amp;#1497;&amp;#1514;&amp;#1492; &amp;#1508;&amp;#1512;&amp;#1493;&amp;#1513;&amp;#1492; &amp;#1512;&amp;#1497;&amp;#1511;&amp;#1502;&amp;#1492;, &amp;#1499;&amp;#1494;&amp;#1493;&amp;amp;#160; &amp;#1513;&amp;#1488;&amp;#1491;&amp;#1512;&amp;#1497;&amp;#1488;&amp;#1504;&amp;#1497; &amp;#1492;&amp;#1497;&amp;#1497;&amp;#1514;&amp;#1492; &amp;#1497;&amp;#1499;&amp;#1493;&amp;#1500;&amp;#1492; &amp;#1500;&amp;#1492;&amp;#1514;&amp;#1508;&amp;#1506;&amp;#1500; &amp;#1502;&amp;#1502;&amp;#1504;&amp;#1492;.&amp;amp;#160; &amp;#1502;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1496; &amp;#1494;&amp;#1512;&amp;#1511; &amp;#1502;&amp;#1489;&amp;#1496; &amp;#1495;&amp;#1505;&amp;#1512;-&amp;#1506;&amp;#1504;&amp;#1497;&amp;#1497;&amp;#1503; &amp;#1489;&amp;#1495;&amp;#1491;&amp;#1512; &amp;#1493;&amp;#1508;&amp;#1514;&amp;#1495; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1491;&amp;#1500;&amp;#1514; &amp;#1492;&amp;#1505;&amp;#1502;&amp;#1493;&amp;#1499;&amp;#1492;. &amp;#1502;&amp;#1497;&amp;#1496;&amp;#1514; &amp;#1489;&amp;#1512;&amp;#1494;&amp;#1500; &amp;#1497;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1492;&amp;#1497;&amp;#1497;&amp;#1514;&amp;#1492; &amp;#1510;&amp;#1502;&amp;#1493;&amp;#1491;&amp;#1492; &amp;#1500;&amp;#1511;&amp;#1497;&amp;#1512; &amp;#1500;&amp;#1497;&amp;#1491; &amp;#1492;&amp;#1495;&amp;#1500;&amp;#1493;&amp;#1503;, &amp;#1502;&amp;#1505;&amp;#1493;&amp;#1490; &amp;#1492;&amp;#1502;&amp;#1497;&amp;#1496;&amp;#1493;&amp;#1514; &amp;#1506;&amp;#1501; &amp;#1508;&amp;#1497;&amp;#1514;&amp;#1493;&amp;#1495;&amp;#1497;-&amp;#1502;&amp;#1514;&amp;#1499;&amp;#1514; &amp;#1489;&amp;#1512;&amp;#1488;&amp;#1513; &amp;#1493;&amp;#1489;&amp;#1512;&amp;#1490;&amp;#1500;&amp;#1497;&amp;#1497;&amp;#1501;. &amp;#1506;&amp;#1500; &amp;#1492;&amp;#1502;&amp;#1497;&amp;#1496;&amp;#1492; &amp;#1492;&amp;#1497;&amp;#1492; &amp;#1508;&amp;#1512;&amp;#1493;&amp;#1513; &amp;#1499;&amp;#1497;&amp;#1505;&amp;#1493;&amp;#1497; &amp;#1512;&amp;#1511;&amp;#1493;&amp;#1501; &amp;#1513;&amp;#1502;&amp;#1495;&amp;#1510;&amp;#1497;&amp;#1514; &amp;#1502;&amp;#1492;&amp;#1490;&amp;#1491;&amp;#1497;&amp;#1500;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1513;&amp;#1493;&amp;#1500;&amp;#1497;&amp;#1493; &amp;#1488;&amp;#1489;&amp;#1491;&amp;#1493;. &amp;#1489;&amp;#1510;&amp;#1502;&amp;#1493;&amp;#1491; &amp;#1500;&amp;#1502;&amp;#1497;&amp;#1496;&amp;#1492; &amp;#1504;&amp;#1497;&amp;#1510;&amp;#1489;&amp;#1492; &amp;#1513;&amp;#1497;&amp;#1491;&amp;#1514;-&amp;#1506;&amp;#1509; &amp;#1502;&amp;#1500;&amp;#1508;&amp;#1504;&amp;#1497; &amp;#1492;&amp;#1502;&amp;#1500;&amp;#1495;&amp;#1502;&amp;#1492; &amp;#1506;&amp;#1501; &amp;#1488;&amp;#1492;&amp;#1497;&amp;#1500; &amp;#1502;&amp;#1497;&amp;#1493;&amp;#1513;&amp;#1503; &amp;#1489;&amp;#1488;&amp;#1493;&amp;#1514;&amp;#1492; &amp;#1502;&amp;#1497;&amp;#1491;&amp;#1492;.&amp;amp;#160;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:30.451 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:38:50.947 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>9272BC1D-8D45-B5C3-14C9-398FCC0D56BF</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>1E9B1ED7-FC05-8624-14CD-02272D8B60A1</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+p.msonormal {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; line-height: 150%; text-align: right;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; line-height: 150%; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;&amp;#1492;&amp;#1514;&amp;#1506;&amp;#1493;&amp;#1491;&amp;#1492; &amp;#1506;&amp;#1510;&amp;#1502;&amp;#1492; &amp;#1502;&amp;#1506;&amp;#1493;&amp;#1496;&amp;#1512;&amp;#1514; &amp;#1489;&amp;#1488;&amp;#1497;&amp;#1493;&amp;#1512;&amp;#1497; &amp;#1510;&amp;#1502;&amp;#1495;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1513;&amp;#1500;&amp;#1500; &amp;#1510;&amp;#1489;&amp;#1506;&amp;#1497;&amp;#1501;, &amp;#1492;&amp;#1508;&amp;#1493;&amp;#1512;&amp;#1496;&amp;#1512;&amp;#1496; &amp;#1513;&amp;#1500; &amp;#1489;&amp;#1506;&amp;#1500; &amp;#1492;&amp;#1491;&amp;#1497;&amp;#1508;&amp;#1500;&amp;#1493;&amp;#1502;&amp;#1492; &amp;#1502;&amp;#1510;&amp;#1493;&amp;#1497; &amp;#1489;&amp;#1514;&amp;#1493;&amp;#1498; &amp;#1502;&amp;#1491;&amp;#1500;&amp;#1497;&amp;#1493;&amp;#1503; &amp;#1505;&amp;#1490;&amp;#1500;&amp;#1490;&amp;#1500; &amp;#1493;&amp;#1502;&amp;#1506;&amp;#1500;&amp;#1497;&amp;#1493; &amp;#1513;&amp;#1514;&amp;#1497; &amp;#1511;&amp;#1512;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1508;&amp;#1506; &amp;#1493;&amp;#1513;&amp;#1504;&amp;#1497; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span dir=&amp;quot;LTR&amp;quot; style=&amp;quot; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;putti&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot; line-height: 150%; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt; &amp;#8211; &amp;#1502;&amp;#1500;&amp;#1488;&amp;#1499;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1502;&amp;#1510;&amp;#1493;&amp;#1497;&amp;#1497;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1499;&amp;#1508;&amp;#1506;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1514;. &amp;#1500;&amp;#1491;&amp;#1497;&amp;#1508;&amp;#1500;&amp;#1493;&amp;#1502;&amp;#1492; &amp;#1492;&amp;#1497;&amp;#1493; &amp;#1502;&amp;#1495;&amp;#1493;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1504;&amp;#1497; &amp;#1495;&amp;#1493;&amp;#1514;&amp;#1502;&amp;#1497; &amp;#1513;&amp;#1506;&amp;#1493;&amp;#1493;&amp;#1492; &amp;#1513;&amp;#1492;&amp;#1511;&amp;#1504;&amp;#1493; &amp;#1500;&amp;#1492; &amp;#1488;&amp;#1514; &amp;#1514;&amp;#1493;&amp;#1511;&amp;#1508;&amp;#1492; &amp;#1492;&amp;#1512;&amp;#1513;&amp;#1502;&amp;#1497;, &amp;#1502;&amp;#1492;&amp;#1501; &amp;#1504;&amp;#1493;&amp;#1514;&amp;#1512;&amp;#1493; &amp;#1512;&amp;#1511; &amp;#1513;&amp;#1512;&amp;#1493;&amp;#1499;&amp;#1497; &amp;#1492;&amp;#1511;&amp;#1513;&amp;#1497;&amp;#1512;&amp;#1492;. &amp;#1489;&amp;#1512;&amp;#1488;&amp;#1513; &amp;#1493;&amp;#1489;&amp;#1514;&amp;#1495;&amp;#1514;&amp;#1497;&amp;#1514; &amp;#1499;&amp;#1500; &amp;#1506;&amp;#1502;&amp;#1493;&amp;#1491; &amp;#1502;&amp;#1510;&amp;#1493;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1512;&amp;#1489;&amp;#1506;&amp;#1492; &amp;#1502;&amp;#1491;&amp;#1500;&amp;#1497;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1493;&amp;#1489;&amp;#1492;&amp;#1501; &amp;#1488;&amp;#1497;&amp;#1502;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1489;&amp;#1500;&amp;#1496;&amp;#1497;&amp;#1504;&amp;#1497;&amp;#1514; &amp;#1499;&amp;#1490;&amp;#1493;&amp;#1503; &amp;apos;&amp;#1492;&amp;#1495;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1511;&amp;#1510;&amp;#1512;&amp;#1497;&amp;#1501;, &amp;#1492;&amp;#1488;&amp;#1502;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1502;&amp;#1514;&amp;#1502;&amp;#1513;&amp;#1499;&amp;#1514; (&amp;#1488;&amp;#1512;&amp;#1493;&amp;#1499;&amp;#1492;) &amp;#8211; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span dir=&amp;quot;LTR&amp;quot; style=&amp;quot; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;vita brevis, ars longa&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot; line-height: 150%; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span dir=&amp;quot;LTR&amp;quot; style=&amp;quot; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot; line-height: 150%; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt; &amp;amp;#160;&amp;apos;&amp;#1505;&amp;#1493;&amp;#1508;&amp;#1492; (&amp;#1514;&amp;#1493;&amp;#1510;&amp;#1488;&amp;#1514;&amp;#1492;) &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1512;&amp;#1508;&amp;#1493;&amp;#1488;&amp;#1492; &amp;#8211; &amp;#1489;&amp;#1512;&amp;#1497;&amp;#1488;&amp;#1493;&amp;#1514;, &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span dir=&amp;quot;LTR&amp;quot; style=&amp;quot; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;finis medicine sanitas&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot; line-height: 150%; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;.&amp;amp;#160;&amp;amp;#160;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:28.984 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:25:30.898 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>10D49FD7-6A5E-0C9F-56CB-ED520AF7D32E</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>F7473840-FD1D-D51D-F9E9-E5C0737401F5</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+p.msonormal {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;#1493;&amp;#1489;&amp;#1512;&amp;#1490;&amp;#1506; &amp;#1513;&amp;#1488;&amp;#1502;&amp;#1512;&amp;#1492; &amp;#1494;&amp;#1488;&amp;#1514; &amp;#1508;&amp;#1512;&amp;#1510;&amp;#1492; &amp;#1500;&amp;#1508;&amp;#1514;&amp;#1506; &amp;#1489;&amp;#1489;&amp;#1499;&amp;#1497;. &amp;#1506;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1493; &amp;#1492;&amp;#1505;&amp;#1514;&amp;#1499;&amp;#1500;&amp;#1493; &amp;#1489;&amp;#1492; &amp;#1489;&amp;#1508;&amp;#1500;&amp;#1497;&amp;#1488;&amp;#1492; &amp;#1500;&amp;#1488; &amp;#1512;&amp;#1511; &amp;#1513;&amp;#1514;&amp;#1497; &amp;#1500;&amp;#1493;&amp;#1489;&amp;#1513;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1490;&amp;#1500;&amp;#1497;&amp;#1502;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1500;&amp;#1488; &amp;#1490;&amp;#1501; &amp;#1499;&amp;#1500; &amp;#1492;&amp;#1513;&amp;#1488;&amp;#1512; &amp;#1493;&amp;#1489;&amp;#1497;&amp;#1504;&amp;#1497;&amp;#1492;&amp;#1501; &amp;#1502;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1496;&amp;#1493;&amp;#1490;&amp;#1500;&amp;#1493;. &amp;#1500;&amp;#1502;&amp;#1494;&amp;#1500;&amp;#1504;&amp;#1493; &amp;#1508;&amp;#1496;&amp;#1512;&amp;#1493;&amp;#1508;&amp;#1493;&amp;#1500;&amp;#1493;&amp;#1505; &amp;#1499;&amp;#1489;&amp;#1512; &amp;#1495;&amp;#1494;&amp;#1512;&amp;#1492; &amp;#1489;&amp;#1497;&amp;#1504;&amp;#1514;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1502;&amp;#1511;&amp;#1493;&amp;#1502;&amp;#1492;.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;quot;&amp;#1511;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1513;&amp;#1492;&amp;#1493;?&amp;quot; &amp;#1513;&amp;#1488;&amp;#1500;&amp;#1492; &amp;#1502;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1496;&amp;#1493;&amp;#1490;&amp;#1500;&amp;#1493;.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;quot;&amp;#1500;&amp;#1488;, &amp;#1490;&amp;#1489;&amp;#1512;&amp;#1514; &amp;#1502;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1496;&amp;#1493;&amp;#1490;&amp;#1500;&amp;#1493;, &amp;#1488;&amp;#1500;&amp;#1493; &amp;#1491;&amp;#1502;&amp;#1506;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1502;&amp;#1495;&amp;#1492;, &amp;#1492;&amp;#1489;&amp;#1514; &amp;#1513;&amp;#1500;&amp;#1504;&amp;#1493; &amp;#1502;&amp;#1514;&amp;#1495;&amp;#1514;&amp;#1504;&amp;#1514;.&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;quot;&amp;#1488;&amp;#1492;, &amp;#1504;&amp;#1492;&amp;#1491;&amp;#1512;, &amp;#1488;&amp;#1489;&amp;#1500; &amp;#1500;&amp;#1488; &amp;#1488;&amp;#1502;&amp;#1512;&amp;#1514;&amp;#1501; &amp;#1500;&amp;#1497; &amp;#1513;&amp;#1492;&amp;#1497;&amp;#1488; &amp;#1499;&amp;#1489;&amp;#1512; &amp;#1492;&amp;#1514;&amp;#1495;&amp;#1514;&amp;#1504;&amp;#1492;?&amp;quot; &amp;#1514;&amp;#1492;&amp;#1514;&amp;#1492; &amp;#1502;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1496;&amp;#1490;&amp;#1500;&amp;#1493;.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;quot;&amp;#1499;&amp;#1503;, &amp;#1488;&amp;#1489;&amp;#1500; &amp;#1506;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1493; &amp;#1492;&amp;#1501; &amp;#1492;&amp;#1495;&amp;#1500;&amp;#1497;&amp;#1496;&amp;#1493; &amp;#1500;&amp;#1506;&amp;#1512;&amp;#1493;&amp;#1498; &amp;#1490;&amp;#1501; &amp;#1495;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1492; &amp;#1491;&amp;#1514;&amp;#1497;&amp;#1514;.&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;#1502;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1496;&amp;#1493;&amp;#1490;&amp;#1500;&amp;#1493; &amp;#1495;&amp;#1497;&amp;#1497;&amp;#1499;&amp;#1492;, &amp;quot;&amp;#1488;&amp;#1493;&amp;#1500;&amp;#1497; &amp;#1497;&amp;#1513; &amp;#1500;&amp;#1499;&amp;#1501; &amp;#1513;&amp;#1493;&amp;#1512;&amp;#1513;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1468;&amp;#1464;&amp;#1506;&amp;#1497;&amp;#1512; &amp;#1493;&amp;#1500;&amp;#1488; &amp;#1497;&amp;#1491;&amp;#1506;&amp;#1514;&amp;#1501;?&amp;quot; &amp;#1513;&amp;#1488;&amp;#1500;&amp;#1492; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1504;&amp;#1493;.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;quot;&amp;#1502;&amp;#1491;&amp;#1493;&amp;#1506;?&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;quot;&amp;#1489;&amp;#1490;&amp;#1500;&amp;#1500; &amp;#1513;&amp;#1488;&amp;#1504;&amp;#1495;&amp;#1504;&amp;#1493; &amp;#1489;&amp;#1468;&amp;#1464;&amp;#1506;&amp;#1497;&amp;#1512; &amp;#1514;&amp;#1502;&amp;#1497;&amp;#1491; &amp;#1492;&amp;#1514;&amp;#1495;&amp;#1514;&amp;#1504;&amp;#1493; &amp;#1508;&amp;#1506;&amp;#1502;&amp;#1497;&amp;#1497;&amp;#1501;. &amp;#1499;&amp;#1488;&amp;#1503; &amp;#1492;&amp;#1495;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1492; &amp;#1492;&amp;#1488;&amp;#1494;&amp;#1512;&amp;#1495;&amp;#1497;&amp;#1514; &amp;#1492;&amp;#1497;&amp;#1488; &amp;#1500;&amp;#1488; &amp;#1489;&amp;#1490;&amp;#1491;&amp;#1512; &amp;#1512;&amp;#1513;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1500;&amp;#1488; &amp;#1495;&amp;#1493;&amp;#1489;&amp;#1492;. &amp;#1493;&amp;#1499;&amp;#1498;, &amp;#1492;&amp;#1497;&amp;#1497;&amp;#1504;&amp;#1493; &amp;#1502;&amp;#1514;&amp;#1495;&amp;#1514;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1511;&amp;#1493;&amp;#1491;&amp;#1501; &amp;#1489;&amp;#1502;&amp;#1513;&amp;#1512;&amp;#1491; &amp;#1512;&amp;#1513;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1493;&amp;#1499;&amp;#1500;&amp;#1493;&amp;#1505;&amp;#1497;&amp;#1503; &amp;#1493;&amp;#1500;&amp;#1488;&amp;#1495;&amp;#1512;-&amp;#1502;&amp;#1499;&amp;#1503; &amp;#1489;&amp;#1499;&amp;#1504;&amp;#1505;&amp;#1497;&amp;#1497;&amp;#1492;. &amp;#1488;&amp;#1501; &amp;#1514;&amp;#1513;&amp;#1488;&amp;#1500;&amp;#1493; &amp;#1502;&amp;#1497;&amp;#1513;&amp;#1492;&amp;#1493; &amp;#1513;&amp;#1492;&amp;#1514;&amp;#1495;&amp;#1514;&amp;#1503; &amp;#1512;&amp;#1511; &amp;#1489;&amp;#1495;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1492; &amp;#1488;&amp;#1494;&amp;#1512;&amp;#1495;&amp;#1497;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1501; &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1504;&amp;#1513;&amp;#1493;&amp;#1497;, &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1497;&amp;#1490;&amp;#1497;&amp;#1491; &amp;apos;&amp;#1512;&amp;#1511; &amp;#1488;&amp;#1494;&amp;#1512;&amp;#1495;&amp;#1497;&amp;#1514;&amp;apos;, &amp;#1488;&amp;#1489;&amp;#1500; &amp;#1488;&amp;#1501; &amp;#1506;&amp;#1512;&amp;#1498; &amp;#1490;&amp;#1501; &amp;#1496;&amp;#1511;&amp;#1505; &amp;#1491;&amp;#1514;&amp;#1497; &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1497;&amp;#1513;&amp;#1497;&amp;#1489; &amp;#1500;&amp;#1499;&amp;#1501; &amp;#1495;&amp;#1491; &amp;#1493;&amp;#1495;&amp;#1500;&amp;#1511; &amp;apos;&amp;#1499;&amp;#1503;, &amp;#1492;&amp;#1514;&amp;#1495;&amp;#1514;&amp;#1504;&amp;#1514;&amp;#1497;&amp;apos;. &amp;#1492;&amp;#1495;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1492; &amp;#1492;&amp;#1493;&amp;#1513;&amp;#1500;&amp;#1502;&amp;#1492; &amp;#1512;&amp;#1511; &amp;#1499;&amp;#1513;&amp;#1504;&amp;#1506;&amp;#1512;&amp;#1499;&amp;#1493; &amp;#1513;&amp;#1504;&amp;#1497; &amp;#1492;&amp;#1496;&amp;#1511;&amp;#1505;&amp;#1497;&amp;#1501;.&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;quot;&amp;#1496;&amp;#1493;&amp;#1489;&amp;quot;, &amp;#1508;&amp;#1504;&amp;#1497;&amp;#1514;&amp;#1497; &amp;#1500;&amp;#1488;&amp;#1491;&amp;#1512;&amp;#1497;&amp;#1488;&amp;#1504;&amp;#1497; &amp;#1489;&amp;#1496;&amp;#1493;&amp;#1503; &amp;#1512;&amp;#1510;&amp;#1497;&amp;#1504;&amp;#1497; &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1500;&amp;#1506;&amp;#1493;&amp;#1512;&amp;#1512; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1492; &amp;#1500;&amp;#1492;&amp;#1514;&amp;#1488;&amp;#1493;&amp;#1513;&amp;#1513;, &amp;quot;&amp;#1500;&amp;#1488; &amp;#1488;&amp;#1502;&amp;#1512;&amp;#1504;&amp;#1493; &amp;#1513;&amp;#1504;&amp;#1513;&amp;#1502;&amp;#1493;&amp;#1512; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1506;&amp;#1504;&amp;#1497;&amp;#1497;&amp;#1503; &amp;#1489;&amp;#1505;&amp;#1493;&amp;#1491;?&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: right;&amp;quot;&amp;gt;&amp;amp;#160;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:30.390 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:01:10.662 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>479DA552-62B8-FDE2-12C0-7FC19002D8AA</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>04742146-4A6C-FCA8-766B-176722205CC9</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+p.msonormal {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;#1508;&amp;#1505;&amp;#1506;&amp;#1514;&amp;#1497; &amp;#1489;&amp;#1502;&amp;#1506;&amp;#1490;&amp;#1500;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1499;&amp;#1504;&amp;#1505;&amp;#1497;&amp;#1497;&amp;#1492;, &amp;#1502;&amp;#1504;&amp;#1505;&amp;#1492; &amp;#1500;&amp;#1514;&amp;#1508;&amp;#1493;&amp;#1505; &amp;#1488;&amp;#1514; &amp;#1490;&amp;#1493;&amp;#1491;&amp;#1500;&amp;#1492; &amp;#1493;&amp;#1500;&amp;#1492;&amp;#1489;&amp;#1497;&amp;#1503; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1493;&amp;#1508;&amp;#1503; &amp;#1489;&amp;#1493; &amp;#1492;&amp;#1497;&amp;#1488; &amp;#1502;&amp;#1493;&amp;#1488;&amp;#1512;&amp;#1514;. &amp;#1489;&amp;#1506;&amp;#1511;&amp;#1489;&amp;#1493;&amp;#1514;&amp;#1497;&amp;#1497; &amp;#1504;&amp;#1513;&amp;#1512;&amp;#1498; &amp;#1489;&amp;#1500;&amp;#1497;&amp;#1500; &amp;#1513;&amp;#1500; &amp;#1513;&amp;#1508;&amp;#1493;&amp;#1514;: &amp;#1488;&amp;#1504;&amp;#1490;&amp;#1500;&amp;#1497;&amp;#1514;, &amp;#1510;&amp;#1512;&amp;#1508;&amp;#1514;&amp;#1497;&amp;#1514;, &amp;#1490;&amp;#1512;&amp;#1502;&amp;#1504;&amp;#1497;&amp;#1514;, &amp;#1497;&amp;#1493;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1514;, &amp;#1488;&amp;#1497;&amp;#1496;&amp;#1500;&amp;#1511;&amp;#1497;&amp;#1514;, &amp;#1496;&amp;#1493;&amp;#1512;&amp;#1511;&amp;#1497;&amp;#1514;. &amp;#1492;&amp;#1489;&amp;#1494;&amp;#1511; &amp;#1510;&amp;#1497;&amp;#1500;&amp;#1493;&amp;#1501; &amp;#1513;&amp;#1500; &amp;#1495;&amp;#1489;&amp;#1493;&amp;#1512;&amp;#1514; &amp;#1497;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1510;&amp;#1497;&amp;#1500;&amp;#1502;&amp;#1493; &amp;#1488;&amp;#1495;&amp;#1491; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1513;&amp;#1504;&amp;#1497; &amp;#1489;&amp;#1512;&amp;#1493;&amp;#1489; &amp;#1513;&amp;#1502;&amp;#1495;&amp;#1492; &amp;#1505;&amp;#1504;&amp;#1493;&amp;#1493;&amp;#1512; &amp;#1488;&amp;#1514; &amp;#1506;&amp;#1497;&amp;#1504;&amp;#1497;&amp;#1497;, &amp;#1499;&amp;#1488;&amp;#1513;&amp;#1512; &amp;#1489;&amp;#1505;&amp;#1502;&amp;#1493;&amp;#1498; &amp;#1488;&amp;#1500;&amp;#1497;&amp;#1497; &amp;#1502;&amp;#1505;&amp;#1508;&amp;#1512; &amp;#1504;&amp;#1494;&amp;#1497;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1490;&amp;#1500;&amp;#1497;&amp;#1502;&amp;#1493;&amp;#1514; &amp;#1495;&amp;#1493;&amp;#1502;&amp;#1493;&amp;#1514;-&amp;#1499;&amp;#1492;&amp;#1493;&amp;#1514;, &amp;#1489;&amp;#1512;&amp;#1491;&amp;#1505;&amp;#1497;&amp;#1501; &amp;#1493;&amp;#1510;&amp;#1500;&amp;#1489;&amp;#1497;&amp;#1501; &amp;#1506;&amp;#1510;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501;, &amp;#1492;&amp;#1511;&amp;#1513;&amp;#1497;&amp;#1489;&amp;#1493; &amp;#1500;&amp;#1505;&amp;#1497;&amp;#1493;&amp;#1512; &amp;#1502;&amp;#1493;&amp;#1491;&amp;#1512;&amp;#1498; &amp;#1502;&amp;#1508;&amp;#1497;&amp;#1493; &amp;#1513;&amp;#1500; &amp;#1499;&amp;#1493;&amp;#1502;&amp;#1512; &amp;#1489;&amp;#1488;&amp;#1495;&amp;#1514; &amp;#1492;&amp;#1513;&amp;#1508;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1505;&amp;#1500;&amp;#1488;&amp;#1489;&amp;#1497;&amp;#1493;&amp;#1514;.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p style=&amp;quot; text-align: right;&amp;quot;&amp;gt;&amp;amp;#160;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:28.392 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 11:58:32.554 @+0200</modificationDateTime>
+        </Entry>
+        <Entry>
+            <guid>6BB8D3C0-CCD2-12AD-9BC7-A50676AB1287</guid>
+            <EntryObjects>
+                <EntryObject>
+                    <objectType>0</objectType>
+                    <objectID>ADA933BD-EE7D-3B4A-8329-57CBAA4CCD8A</objectID>
+                </EntryObject>
+            </EntryObjects>
+            <body>&amp;lt;!DOCTYPE html PUBLIC &amp;quot;-//W3C//DTD XHTML 1.0 Transitional//EN&amp;quot; &amp;quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&amp;quot;&amp;gt; 
+&amp;lt;html xmlns=&amp;quot;http://www.w3.org/1999/xhtml&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;EditLive! 7.6.2.10&amp;quot; /&amp;gt;
+&amp;lt;meta name=&amp;quot;generator&amp;quot; content=&amp;quot;TheBrain 7.0.4.5&amp;quot; /&amp;gt;
+&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+p.msonormal {
+margin: 0cm;  margin-bottom: .0001pt;  text-align: right;  direction: rtl;  unicode-bidi: embed;  font-size: 12.0pt;  font-family: &amp;quot;Times New Roman&amp;quot;, serif;
+}
+--&amp;gt;
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p class=&amp;quot;MsoNormal&amp;quot; dir=&amp;quot;RTL&amp;quot; style=&amp;quot; text-align: justify; line-height: 150%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; line-height: 150%; font-family: David,sans-serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;&amp;#1506;&amp;#1493;&amp;#1491; &amp;#1502;&amp;#1497;&amp;#1491;&amp;#1506; &amp;#1506;&amp;#1500; &amp;#1504;&amp;#1497;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1503;:&amp;amp;#160; &amp;amp;#160;&amp;#1500;&amp;#1504;&amp;#1497;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1497;&amp;#1493; &amp;#1491;&amp;#1506;&amp;#1493;&amp;#1514; &amp;#1491;&amp;#1514;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1489;&amp;#1500;&amp;#1514;&amp;#1497; &amp;#1488;&amp;#1493;&amp;#1512;&amp;#1514;&amp;#1493;&amp;#1491;&amp;#1493;&amp;#1511;&amp;#1505;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1506;&amp;#1491; &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1499;&amp;#1498;, &amp;#1513;&amp;#1492;&amp;#1493;&amp;#1488; &amp;#1504;&amp;#1488;&amp;#1500;&amp;#1509; &amp;#1500;&amp;#1492;&amp;#1505;&amp;#1514;&amp;#1497;&amp;#1512; &amp;#1488;&amp;#1514; &amp;#1491;&amp;#1506;&amp;#1493;&amp;#1514;&amp;#1497;&amp;#1493; &amp;#1502;&amp;#1495;&amp;#1513;&amp;#1513; &amp;#1513;&amp;#1497;&amp;#1493;&amp;#1488;&amp;#1513;&amp;#1501; &amp;#1489;&amp;#1502;&amp;#1497;&amp;#1504;&amp;#1493;&amp;#1514;. &amp;#1504;&amp;#1497;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1488;&amp;#1502;&amp;#1497;&amp;#1503; &amp;#1489;&amp;#1488;&amp;#1495;&amp;#1491;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1500; &amp;#8211; &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1492;&amp;apos;&amp;#1488;&amp;#1489;&amp;apos;, &amp;#1493;&amp;#1500;&amp;#1488; &amp;#1489;&amp;#1513;&amp;#1497;&amp;#1500;&amp;#1493;&amp;#1513; &amp;#1492;&amp;#1511;&amp;#1491;&amp;#1493;&amp;#1513;.&amp;amp;#160; &amp;#1499;&amp;#1502;&amp;#1493;-&amp;#1499;&amp;#1503; &amp;#1492;&amp;#1488;&amp;#1502;&amp;#1497;&amp;#1503; &amp;#1499;&amp;#1497; &amp;#1497;&amp;#1513;&amp;#1493; &amp;#1500;&amp;#1488; &amp;#1492;&amp;#1497;&amp;#1492; &amp;#1495;&amp;#1500;&amp;#1511; &amp;#1489;&amp;#1500;&amp;#1514;&amp;#1497; &amp;#1504;&amp;#1508;&amp;#1512;&amp;#1491; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1488;&amp;#1500;&amp;#1493;&amp;#1492;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1513;&amp;#1512; &amp;#1492;&amp;#1514;&amp;#1490;&amp;#1513;&amp;#1501; &amp;#1489;&amp;#1489;&amp;#1513;&amp;#1512;, &amp;#1488;&amp;#1500;&amp;#1488; &amp;#1489;&amp;#1504;&amp;#1493; &amp;#1514;&amp;#1512;&amp;#1514;&amp;#1497; &amp;#1502;&amp;#1513;&amp;#1502;&amp;#1506; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1488;&amp;#1500; &amp;#1488;&amp;#1513;&amp;#1512; &amp;#1504;&amp;#1493;&amp;#1510;&amp;#1512; &amp;#1506;&amp;#1500; &amp;#1497;&amp;#1491;&amp;#1493; &amp;#1489;&amp;#1512;&amp;#1490;&amp;#1506; &amp;#1502;&amp;#1505;&amp;#1493;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1494;&amp;#1502;&amp;#1503;, &amp;#1489;&amp;#1499;&amp;#1498; &amp;#1492;&amp;#1514;&amp;#1511;&amp;#1512;&amp;#1489; &amp;#1500;&amp;#1491;&amp;#1506;&amp;#1492; &amp;#1492;&amp;#1488;&amp;#1512;&amp;#1497;&amp;#1488;&amp;#1504;&amp;#1497;&amp;#1514;, &amp;#1513;&amp;#1492;&amp;#1493;&amp;#1499;&amp;#1512;&amp;#1494;&amp;#1492; &amp;#1499;&amp;#1502;&amp;#1497;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1506;&amp;#1493;&amp;#1491; &amp;#1489;&amp;#1502;&amp;#1488;&amp;#1492; &amp;#1492;&amp;#1512;&amp;#1489;&amp;#1497;&amp;#1506;&amp;#1497;&amp;#1514; &amp;#1489;&amp;#1493;&amp;#1493;&amp;#1506;&amp;#1497;&amp;#1491;&amp;#1514; &amp;#1504;&amp;#1497;&amp;#1511;&amp;#1488;&amp;#1492;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot; font-size: small;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;DefaultStyle&amp;quot; style=&amp;quot; text-align: right;&amp;quot;&amp;gt;&amp;amp;#160;&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+</body>
+            <format>HTML</format>
+            <creationDateTime>2014-12-03 16:32:28.427 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:29:40.897 @+0200</modificationDateTime>
+        </Entry>
+    </Entries>
+    <Attachments>
+        <Attachment>
+            <guid>F7FFD8C7-556C-E8A6-6186-203F21D9F75B</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>5C98A114-FFFF-F58A-8BBD-D3659999782F</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>7505D43F-518B-4B46-4495-45B81531F2A9</objectID>
+            <name>&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1514;-&amp;#1506;&amp;#1512;&amp;#1489;&amp;#1497;&amp;#1514;, &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1506;&amp;#1512;&amp;#1489;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1493;&amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1493;&amp;#1514;.gif</name>
+            <attachmentType>1</attachmentType>
+            <location>7505D43F-518B-4B46-4495-45B81531F2A9\&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1514;-&amp;#1506;&amp;#1512;&amp;#1489;&amp;#1497;&amp;#1514;, &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1506;&amp;#1512;&amp;#1489;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1493;&amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1493;&amp;#1514;.gif</location>
+            <dataLength>7124</dataLength>
+            <format>.gif</format>
+            <creationDateTime>2014-12-03 16:32:30.947 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:11:05.330 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>B5321510-5A20-E3B5-5FF4-685D1022B08A</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>5C98A114-FFFF-F58A-8BBD-D3659999782F</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>7505D43F-518B-4B46-4495-45B81531F2A9</objectID>
+            <name>&amp;#1505;&amp;#1506;&amp;#1491;&amp;#1497;&amp;#1492; &amp;#1490;&amp;#1488;&amp;#1493;&amp;#1503;, &amp;#1499;&amp;#1497;&amp;#1514;&amp;#1489; &amp;#1488;&amp;#1500;-&amp;#1488;&amp;#1502;&amp;#1504;&amp;#1514; &amp;#1493;&amp;#1493;&amp;#1500;-&amp;#1488;&amp;#1497;-&amp;#1496;&amp;#1497;&amp;#1511;&amp;#1491;&amp;#1514; (&amp;#1505;&amp;#1508;&amp;#1512; &amp;#1492;&amp;#1488;&amp;#1502;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1493;&amp;#1492;&amp;#1491;&amp;#1506;&amp;#1493;&amp;#1514;) &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>7505D43F-518B-4B46-4495-45B81531F2A9\&amp;#1505;&amp;#1506;&amp;#1491;&amp;#1497;&amp;#1492; &amp;#1490;&amp;#1488;&amp;#1493;&amp;#1503;, &amp;#1499;&amp;#1497;&amp;#1514;&amp;#1489; &amp;#1488;&amp;#1500;-&amp;#1488;&amp;#1502;&amp;#1504;&amp;#1514; &amp;#1493;&amp;#1493;&amp;#1500;-&amp;#1488;&amp;#1497;-&amp;#1496;&amp;#1497;&amp;#1511;&amp;#1491;&amp;#1514; (&amp;#1505;&amp;#1508;&amp;#1512; &amp;#1492;&amp;#1488;&amp;#1502;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1493;&amp;#1492;&amp;#1491;&amp;#1506;&amp;#1493;&amp;#1514;) &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;.jpg</location>
+            <dataLength>207763</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:30.985 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:13:48.089 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>29583831-DEBA-BB62-7E76-B60E64E8A6E8</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>5C98A114-FFFF-F58A-8BBD-D3659999782F</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>7505D43F-518B-4B46-4495-45B81531F2A9</objectID>
+            <name>&amp;#1513;&amp;#1497;&amp;#1504;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1488;&amp;#1493;&amp;#1514;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1506;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1489;&amp;#1504;&amp;#1497;&amp;#1489; &amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;-&amp;#1506;&amp;#1512;&amp;#1489;&amp;#1497;, &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;</name>
+            <attachmentType>3</attachmentType>
+            <location>https://soundcloud.com/shayesh/learning-the-hebrew-letters-in</location>
+            <dataLength>0</dataLength>
+            <format></format>
+            <creationDateTime>2014-12-03 16:32:30.991 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:15:13.791 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>A63827CF-9EC4-7026-1F14-0BFFAD18D9A2</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>EAD19CD6-913C-55CB-33DF-DA5F7EAF7030</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>D426D901-F0FB-99E7-6E57-289CFFFBDD64</objectID>
+            <name>Seder Nashim, Maimonides&amp;apos; autograph, NLI.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>D426D901-F0FB-99E7-6E57-289CFFFBDD64\Seder Nashim, Maimonides&amp;apos; autograph, NLI.jpg</location>
+            <dataLength>190912</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:30.883 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:32:30.883 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>A655B095-FD0C-8637-99B9-077D28B26D6C</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>1E38556E-1FE3-0498-B265-F01F48A1365B</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>1BAF406E-CD39-9925-64F2-EB8CD3520C9E</objectID>
+            <name>&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492;, &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, &amp;#1505;&amp;#1508;&amp;#1512;&amp;#1491; 1300-1350.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>1BAF406E-CD39-9925-64F2-EB8CD3520C9E\&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492;, &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, &amp;#1505;&amp;#1508;&amp;#1512;&amp;#1491; 1300-1350.jpg</location>
+            <dataLength>99295</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:31.146 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 13:37:05.350 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>FD61A7DE-3F70-C4C8-FED0-560C2BB607A8</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>1E38556E-1FE3-0498-B265-F01F48A1365B</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>1BAF406E-CD39-9925-64F2-EB8CD3520C9E</objectID>
+            <name>&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492;, &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, &amp;#1505;&amp;#1508;&amp;#1512;&amp;#1491; 1300-1350, &amp;#1506;&amp;#1501; &amp;#1506;&amp;#1497;&amp;#1496;&amp;#1493;&amp;#1512;&amp;#1497;&amp;#1501;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>1BAF406E-CD39-9925-64F2-EB8CD3520C9E\&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492;, &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, &amp;#1505;&amp;#1508;&amp;#1512;&amp;#1491; 1300-1350, &amp;#1506;&amp;#1501; &amp;#1506;&amp;#1497;&amp;#1496;&amp;#1493;&amp;#1512;&amp;#1497;&amp;#1501;.jpg</location>
+            <dataLength>93660</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:31.185 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 13:38:20.377 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>C83FCE90-1FCE-00AF-E7BD-F86B00391800</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>896DA51D-AE5B-A8E1-BA7B-69164EB1552C</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>4504BA63-8A03-E369-3B65-6AA7A2D71392</objectID>
+            <name>&amp;#1499;&amp;#1514;&amp;#1489; &amp;#1497;&amp;#1491; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, &amp;#1505;&amp;#1491;&amp;#1512; &amp;#1502;&amp;#1493;&amp;#1506;&amp;#1491;, &amp;#1506;&amp;#1502;&amp;apos; 72, &amp;#1508;&amp;#1512;&amp;#1496;, &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>4504BA63-8A03-E369-3B65-6AA7A2D71392\&amp;#1499;&amp;#1514;&amp;#1489; &amp;#1497;&amp;#1491; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, &amp;#1505;&amp;#1491;&amp;#1512; &amp;#1502;&amp;#1493;&amp;#1506;&amp;#1491;, &amp;#1506;&amp;#1502;&amp;apos; 72, &amp;#1508;&amp;#1512;&amp;#1496;, &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;.jpg</location>
+            <dataLength>165770</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:31.066 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:49:17.664 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>78A3087B-4695-934C-C504-81A81D6BC7AE</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>896DA51D-AE5B-A8E1-BA7B-69164EB1552C</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>4504BA63-8A03-E369-3B65-6AA7A2D71392</objectID>
+            <name>&amp;#1499;&amp;#1514;&amp;#1489; &amp;#1497;&amp;#1491; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, &amp;#1505;&amp;#1491;&amp;#1512; &amp;#1502;&amp;#1493;&amp;#1506;&amp;#1491;, &amp;#1506;&amp;#1502;&amp;apos; 72, &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>4504BA63-8A03-E369-3B65-6AA7A2D71392\&amp;#1499;&amp;#1514;&amp;#1489; &amp;#1497;&amp;#1491; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, &amp;#1505;&amp;#1491;&amp;#1512; &amp;#1502;&amp;#1493;&amp;#1506;&amp;#1491;, &amp;#1506;&amp;#1502;&amp;apos; 72, &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;.jpg</location>
+            <dataLength>190958</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:31.112 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 11:46:29.539 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>5E2A2552-2F27-A8F7-4B84-FD67BC2807EE</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>532DF13B-512F-EA42-B5D6-57DA9D0392F6</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3</objectID>
+            <name>&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501; &amp;#1514;&amp;#1489;&amp;#1500;&amp;#1497;&amp;#1496; &amp;#1489;&amp;#1511;&amp;#1508;&amp;#1497;&amp;#1496;&amp;#1493;&amp;#1500;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>E07DE180-4F9F-F5EF-5597-F1B13CA9F5B3\&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501; &amp;#1514;&amp;#1489;&amp;#1500;&amp;#1497;&amp;#1496; &amp;#1489;&amp;#1511;&amp;#1508;&amp;#1497;&amp;#1496;&amp;#1493;&amp;#1500;.jpg</location>
+            <dataLength>91891</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:30.589 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-03 16:45:47.628 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>8948D4E5-7207-6E76-A682-57E82476A34A</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>8D3CC129-0BBB-ADE5-48EA-B7C985D229E9</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>82E599B4-743F-E479-ECDA-1F0B8FC4E538</objectID>
+            <name>&amp;#1488;&amp;#1500;&amp;#1508;&amp;#1493;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>82E599B4-743F-E479-ECDA-1F0B8FC4E538\&amp;#1488;&amp;#1500;&amp;#1508;&amp;#1493;.jpg</location>
+            <dataLength>54715</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:30.812 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:18:43.119 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>5437A96F-311F-3202-3FA3-A5F4AB47958D</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>8D52D439-8C95-37B4-ADBD-DDC4C20EF90D</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>FB6C82E3-22BC-35F8-A367-5AAB2732BB40</objectID>
+            <name>&amp;#1502;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1504;&amp;#1489;&amp;#1493;&amp;#1499;&amp;#1497;&amp;#1501;, &amp;#1492;&amp;#1502;&amp;#1488;&amp;#1492; &amp;#1492;-14, &amp;#1514;&amp;#1497;&amp;#1502;&amp;#1503;, &amp;#1506;&amp;#1512;&amp;#1489;&amp;#1497;&amp;#1514;-&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1514;, &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>FB6C82E3-22BC-35F8-A367-5AAB2732BB40\&amp;#1502;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1504;&amp;#1489;&amp;#1493;&amp;#1499;&amp;#1497;&amp;#1501;, &amp;#1492;&amp;#1502;&amp;#1488;&amp;#1492; &amp;#1492;-14, &amp;#1514;&amp;#1497;&amp;#1502;&amp;#1503;, &amp;#1506;&amp;#1512;&amp;#1489;&amp;#1497;&amp;#1514;-&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1491;&amp;#1497;&amp;#1514;, &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;.jpg</location>
+            <dataLength>223523</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:32.316 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 13:41:43.509 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>13C5AB4F-8FF5-A0E3-BFD2-9EE0F974525D</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>AC74A246-C419-245F-1C3F-1C067689AFDF</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>0364CF7B-3F0B-C121-C39B-5D4439E226F6</objectID>
+            <name>&amp;#1502;&amp;#1493;&amp;#1491;&amp;#1500; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1489;&amp;#1488;&amp;#1500;&amp;#1508;&amp;#1493;, &amp;#1489;&amp;#1497;&amp;#1514; &amp;#1492;&amp;#1514;&amp;#1508;&amp;#1493;&amp;#1510;&amp;#1493;&amp;#1514;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>0364CF7B-3F0B-C121-C39B-5D4439E226F6\&amp;#1502;&amp;#1493;&amp;#1491;&amp;#1500; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1489;&amp;#1488;&amp;#1500;&amp;#1508;&amp;#1493;, &amp;#1489;&amp;#1497;&amp;#1514; &amp;#1492;&amp;#1514;&amp;#1508;&amp;#1493;&amp;#1510;&amp;#1493;&amp;#1514;.jpg</location>
+            <dataLength>57298</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:31.412 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:21:55.766 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>F263E9B0-8304-CC48-8A4B-B53DCA12E37C</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>506F2876-199F-9284-C55C-3170751C3618</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>D6BBEBDF-00D3-DBD2-7736-78D520E0189C</objectID>
+            <name>&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, 1300-1350, &amp;apos;&amp;#1502;&amp;#1491;&amp;#1506;&amp;apos;, &amp;#1508;&amp;#1512;&amp;#1496;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>D6BBEBDF-00D3-DBD2-7736-78D520E0189C\&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, 1300-1350, &amp;apos;&amp;#1502;&amp;#1491;&amp;#1506;&amp;apos;, &amp;#1508;&amp;#1512;&amp;#1496;.jpg</location>
+            <dataLength>243351</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:32.201 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:41:19.361 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>523DD651-F53D-1F80-692B-E4C6B07439AB</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>506F2876-199F-9284-C55C-3170751C3618</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>D6BBEBDF-00D3-DBD2-7736-78D520E0189C</objectID>
+            <name>&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, 1300-1350, &amp;apos;&amp;#1502;&amp;#1491;&amp;#1506;&amp;apos;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>D6BBEBDF-00D3-DBD2-7736-78D520E0189C\&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, 1300-1350, &amp;apos;&amp;#1502;&amp;#1491;&amp;#1506;&amp;apos;.jpg</location>
+            <dataLength>270064</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:32.228 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:40:19.121 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>57A9EB10-407A-52A6-FEBE-CD36FF14913B</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>506F2876-199F-9284-C55C-3170751C3618</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>D6BBEBDF-00D3-DBD2-7736-78D520E0189C</objectID>
+            <name>&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, 1300-1350, &amp;apos;&amp;#1488;&amp;#1492;&amp;#1489;&amp;#1492;&amp;apos;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>D6BBEBDF-00D3-DBD2-7736-78D520E0189C\&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, 1300-1350, &amp;apos;&amp;#1488;&amp;#1492;&amp;#1489;&amp;#1492;&amp;apos;.jpg</location>
+            <dataLength>255561</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:32.266 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:41:03.412 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>569ACB68-3A06-9C2B-C697-DB3C0DC78AD7</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>506F2876-199F-9284-C55C-3170751C3618</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>D6BBEBDF-00D3-DBD2-7736-78D520E0189C</objectID>
+            <name>&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, 1300-1350, &amp;apos;&amp;#1488;&amp;#1492;&amp;#1489;&amp;#1492;&amp;apos;, &amp;#1508;&amp;#1512;&amp;#1496;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>D6BBEBDF-00D3-DBD2-7736-78D520E0189C\&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501;, 1300-1350, &amp;apos;&amp;#1488;&amp;#1492;&amp;#1489;&amp;#1492;&amp;apos;, &amp;#1508;&amp;#1512;&amp;#1496;.jpg</location>
+            <dataLength>182522</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:32.293 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:41:38.129 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>B4363DF5-3B72-78D5-AE38-883767EBE694</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>9272BC1D-8D45-B5C3-14C9-398FCC0D56BF</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>1E9B1ED7-FC05-8624-14CD-02272D8B60A1</objectID>
+            <name>&amp;#1508;&amp;#1493;&amp;#1512;&amp;#1496;&amp;#1488;&amp;#1497; &amp;#1500;&amp;#1493;&amp;#1511;&amp;#1497;&amp;#1505;, &amp;#1514;&amp;#1512;&amp;#1490;&amp;#1493;&amp;#1501; &amp;#1500;&amp;#1496;&amp;#1497;&amp;#1504;&amp;#1497; &amp;#1513;&amp;#1500; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512; &amp;#1492;&amp;#1511;&amp;#1489;&amp;#1500;&amp;#1497; &amp;apos;&amp;#1513;&amp;#1506;&amp;#1512;&amp;#1497; &amp;#1488;&amp;#1493;&amp;#1512;&amp;#1492;&amp;apos; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1490;&amp;#1497;&amp;#1511;&amp;#1496;&amp;#1497;&amp;#1500;&amp;#1492;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>1E9B1ED7-FC05-8624-14CD-02272D8B60A1\&amp;#1508;&amp;#1493;&amp;#1512;&amp;#1496;&amp;#1488;&amp;#1497; &amp;#1500;&amp;#1493;&amp;#1511;&amp;#1497;&amp;#1505;, &amp;#1514;&amp;#1512;&amp;#1490;&amp;#1493;&amp;#1501; &amp;#1500;&amp;#1496;&amp;#1497;&amp;#1504;&amp;#1497; &amp;#1513;&amp;#1500; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1505;&amp;#1508;&amp;#1512; &amp;#1492;&amp;#1511;&amp;#1489;&amp;#1500;&amp;#1497; &amp;apos;&amp;#1513;&amp;#1506;&amp;#1512;&amp;#1497; &amp;#1488;&amp;#1493;&amp;#1512;&amp;#1492;&amp;apos; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1490;&amp;#1497;&amp;#1511;&amp;#1496;&amp;#1497;&amp;#1500;&amp;#1492;.jpg</location>
+            <dataLength>128731</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:31.671 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:26:51.107 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>423A6195-F08B-8D2D-4611-910B90499AC1</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>10D49FD7-6A5E-0C9F-56CB-ED520AF7D32E</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>F7473840-FD1D-D51D-F9E9-E5C0737401F5</objectID>
+            <name>&amp;#1488;&amp;#1493;&amp;#1505;&amp;#1507; &amp;#1491;&amp;#1493;&amp;#1491; &amp;#1511;&amp;#1488;&amp;#1493;&amp;#1508;&amp;#1502;&amp;#1503;</name>
+            <attachmentType>3</attachmentType>
+            <location>http://kaufmann.mtak.hu/en/ms50/ms50-coll1.htm</location>
+            <dataLength>0</dataLength>
+            <format>.htm</format>
+            <creationDateTime>2014-12-03 16:32:32.076 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:01:45.276 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>4DE53AE9-1414-831B-26A7-197CA86EFE96</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>10D49FD7-6A5E-0C9F-56CB-ED520AF7D32E</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>F7473840-FD1D-D51D-F9E9-E5C0737401F5</objectID>
+            <name>&amp;#1492;&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492;, &amp;#1505;&amp;#1491;&amp;#1512; &amp;#1504;&amp;#1494;&amp;#1497;&amp;#1511;&amp;#1497;&amp;#1503;, &amp;#1502;&amp;#1505;&amp;#1499;&amp;#1514; &amp;#1488;&amp;#1489;&amp;#1493;&amp;#1514;, &amp;#1508;&amp;#1512;&amp;#1496; &amp;#1502;&amp;#1503; &amp;#1492;&amp;#1490;&amp;#1504;&amp;#1497;&amp;#1494;&amp;#1492; &amp;#1492;&amp;#1511;&amp;#1492;&amp;#1497;&amp;#1512;&amp;#1497;&amp;#1514;.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>F7473840-FD1D-D51D-F9E9-E5C0737401F5\&amp;#1492;&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492;, &amp;#1505;&amp;#1491;&amp;#1512; &amp;#1504;&amp;#1494;&amp;#1497;&amp;#1511;&amp;#1497;&amp;#1503;, &amp;#1502;&amp;#1505;&amp;#1499;&amp;#1514; &amp;#1488;&amp;#1489;&amp;#1493;&amp;#1514;, &amp;#1508;&amp;#1512;&amp;#1496; &amp;#1502;&amp;#1503; &amp;#1492;&amp;#1490;&amp;#1504;&amp;#1497;&amp;#1494;&amp;#1492; &amp;#1492;&amp;#1511;&amp;#1492;&amp;#1497;&amp;#1512;&amp;#1497;&amp;#1514;.jpg</location>
+            <dataLength>72789</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:32.120 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:08:02.896 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>C1DDD8CC-2292-C968-986F-D403397684C3</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>479DA552-62B8-FDE2-12C0-7FC19002D8AA</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>04742146-4A6C-FCA8-766B-176722205CC9</objectID>
+            <name>&amp;#1514;&amp;#1500;&amp;#1502;&amp;#1493;&amp;#1491;,&amp;#1505;&amp;#1491;&amp;#1512; &amp;#1504;&amp;#1513;&amp;#1497;&amp;#1501;, &amp;#1493;&amp;#1504;&amp;#1510;&amp;#1497;&amp;#1492; 1523, &amp;#1506;&amp;#1502;&amp;apos; 1.jpg</name>
+            <attachmentType>1</attachmentType>
+            <location>04742146-4A6C-FCA8-766B-176722205CC9\&amp;#1514;&amp;#1500;&amp;#1502;&amp;#1493;&amp;#1491;,&amp;#1505;&amp;#1491;&amp;#1512; &amp;#1504;&amp;#1513;&amp;#1497;&amp;#1501;, &amp;#1493;&amp;#1504;&amp;#1510;&amp;#1497;&amp;#1492; 1523, &amp;#1506;&amp;#1502;&amp;apos; 1.jpg</location>
+            <dataLength>146333</dataLength>
+            <format>.jpg</format>
+            <creationDateTime>2014-12-03 16:32:31.225 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 11:57:49.283 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>A31409DD-461D-5E30-55B2-CD9671B3E760</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>6BB8D3C0-CCD2-12AD-9BC7-A50676AB1287</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>ADA933BD-EE7D-3B4A-8329-57CBAA4CCD8A</objectID>
+            <name>&amp;#1502;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1492;&amp;#1514;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1502;&amp;#1488;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1502;&amp;#1489;&amp;#1501; &amp;#1489;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1489;&amp;#1493;&amp;#1491;&amp;#1500;&amp;#1497;&amp;#1488;&amp;#1504;&amp;#1497;&amp;#1514;</name>
+            <attachmentType>3</attachmentType>
+            <location>http://harambam.org/</location>
+            <dataLength>0</dataLength>
+            <format></format>
+            <creationDateTime>2014-12-03 16:32:31.303 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:33:38.135 @+0200</modificationDateTime>
+        </Attachment>
+        <Attachment>
+            <guid>2F9138A3-39B1-509A-72D8-3734AEB7F2FF</guid>
+            <AttachmentEntries>
+                <attachmentEntryID>6BB8D3C0-CCD2-12AD-9BC7-A50676AB1287</attachmentEntryID>
+            </AttachmentEntries>
+            <objectID>ADA933BD-EE7D-3B4A-8329-57CBAA4CCD8A</objectID>
+            <name>&amp;#1514;&amp;#1506;&amp;#1512;&amp;#1493;&amp;#1499;&amp;#1514; &amp;#1492;&amp;#1504;&amp;#1513;&amp;#1512; &amp;#1492;&amp;#1490;&amp;#1491;&amp;#1493;&amp;#1500; &amp;#1489;&amp;#1505;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1514;</name>
+            <attachmentType>3</attachmentType>
+            <location>http://www.jnul.huji.ac.il/v-exhibitions/rambam/eng/</location>
+            <dataLength>0</dataLength>
+            <format></format>
+            <creationDateTime>2014-12-03 16:32:31.344 @+0200</creationDateTime>
+            <modificationDateTime>2014-12-04 12:34:06.293 @+0200</modificationDateTime>
+        </Attachment>
+    </Attachments>
+</BrainData>

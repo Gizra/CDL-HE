@@ -1,0 +1,377 @@
+@import 'compass/css3';
+@import 'bootstrap-sass/lib/bootstrap';
+
+@include font-face('Calluna', font-files('CallunaSansRegular-webfont.ttf', 'CallunaSansRegular-webfont.eot', 'CallunaSansRegular-webfont.svg', 'CallunaSansRegular-webfont.woff'));
+@include font-face('Miso', font-files('miso-regular-webfont.ttf', 'miso-regular-webfont.eot', 'miso-regular-webfont.svg', 'miso-regular-webfont.woff'));
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clearfix {
+  display: inline-block;
+}
+
+div.home-icon {
+  margin-top: 8px;
+  margin-left: 10px;
+  position: fixed;
+
+  div.arrow-icon {
+    background:url('/images/home.png') no-repeat top left;
+    width: 50px;
+    height: 50px;
+  }
+}
+
+@media (-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+
+  div.arrow-icon {
+    background:url('/images/home@2x.png') no-repeat top left;
+    background-size: 50px 50px;
+  }
+}
+
+
+div.cdl {
+  margin-left: 0;
+  margin-right: 0;
+  padding-right: 0;
+
+  #content {
+    margin-top: 35px;
+    padding-right: 70px;
+    padding-left: 70px;
+    float:left;
+  }
+
+  #menu {
+    width: 340px;
+    float: right;
+  }
+
+
+  div.caption {
+    font-family: 'Calluna';
+    line-height: 1.2em;
+    font-size: 15px;
+    color: black;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+
+  div.canvas {
+    height: 300px;
+  }
+
+  div.node {
+    float: left;
+    max-width: 750px;
+
+    div.node-title {
+      @include display-box;
+      @include box-align(center);
+      @include box-pack(center);
+
+      height: 270px;
+      width: 270px;
+      border-radius: 50%;
+      background-color: red;
+
+      margin-left: -42px;
+      margin-top: 0px;
+      margin-bottom: 55px;
+
+      div.text-title {
+
+        width: 191px;
+        max-height: 147px;
+        font-family: 'Miso';
+        color: white;
+
+        div.inner-text-title {
+          line-height: 1em;
+
+        }
+      }
+    }
+
+    div.node-content {
+      font-family: 'Calluna';
+      line-height: 1.4em;
+      font-size: 21px;
+      color: black;
+    }
+
+    div.gallery {
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+
+  div.chronological {
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        display: inline-block;
+      }
+
+      div.chronological-title {
+        font-family: 'Miso';
+        font-size: 35px;
+
+        margin-top: 1.2em;
+      }
+
+      div.chronological-content {
+        margin-top: 1em;
+      }
+    }
+  }
+
+  div.navigation, div.navigation-node {
+
+    div.navigation-title {
+      font-family: 'Miso';
+      font-size: 35px;
+      line-height: 1em;
+      border-bottom: 2px solid black;
+
+      padding-bottom: 6px;
+
+      a {
+        text-decoration: none;
+        color: #000000;
+      }
+    }
+
+    div.navigation-list {
+
+      ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+          @include display-box;
+          @include box-align(center);
+          @include box-pack(justify);
+          border-bottom: black solid 1px;
+          float: none;
+          margin-bottom: 0;
+          padding-top: 8px;
+          padding-bottom: 8px;
+          display: -webkit-box;
+
+          a {
+            padding: 0;
+            background-color: transparent;
+            border: none;
+            text-decoration: none important;
+            font-family: 'Miso';
+            font-size: 19px;
+            line-height: 1em;
+            color:black;
+          }
+        }
+
+        li.active {
+          border-bottom: red solid 1px;
+
+          a {
+            color:red;
+          }
+
+          div.spot {
+            height: 11px;
+            width: 11px;
+            border-radius: 50%;
+            background-color: red;
+            position: absolute;
+            right: 21px;
+            margin-top: -5px;
+            top: 100%;
+          }
+        }
+      }
+    }
+
+  }
+
+  div.navigation {
+    width: 270px;
+    padding-top: 66px;
+    padding-left: 70px;
+    position: fixed;
+  }
+
+  div.navigation-node {
+    margin-top: 3em;
+
+    div.navigation-parent {
+
+      div.navigation-list {
+
+        ul {
+
+          li {
+            border-top: 1px solid black;
+          }
+
+          li.top-parent {
+            border-top: none;
+          }
+        }
+      }
+    }
+
+    div.navigation-brothers {
+      li.top-brother {
+        border-top: 1px solid black;
+      }    
+    }
+  }
+
+  .top-children {
+    border-top: 1px solid black;
+  }
+
+
+  div.footer-line {
+    width: 100%;
+    height: 2px;
+    background-color: red;
+    margin-bottom: 75px;
+    margin-top: 75px;
+  }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+  .cdl {
+
+    #menu {
+      display: none;
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+
+  .cdl {
+    text-align: center;
+
+    #wrapper-content {
+      text-align: initial;
+    }
+
+  }
+}
+
+/*****************************************************************************/
+/*
+/* Modal window
+/*
+/*****************************************************************************/
+
+#blueimp-gallery {
+  color: white;
+
+  .modal-content {
+    background-color: transparent;
+
+    .modal-header, .modal-footer {
+      border: none;
+    }
+
+    .modal-indicator, .modal-counter {
+      display: inline-block;
+      width: 50%;
+      height: 3em;
+    }
+
+    .modal-indicator {
+      float: left;
+    }
+
+    .modal-counter {
+      float: right;
+    }
+
+  }
+
+  .play-pause {
+    display: none;
+  }
+
+  a.close {
+    border: 2px solid white;
+    border-radius: 28px;
+    margin: auto;
+    width: 40px;
+    height: 40px;
+    padding-top: 0px;
+    padding-left: 9px;
+  }
+
+  a.prev, a.next {
+    border: none;
+  }
+
+}
+
+
+/*****************************************************************************/
+/*
+/* CDL Chart.
+/*
+/*****************************************************************************/
+
+#chart {
+  .background {
+    fill: none;
+    pointer-events: all;
+  }
+
+  .node {
+    cursor: pointer;
+  }
+
+  // Styles for the SVG foreingObject inserted for the multiline and style of
+  // titles.
+  .area {
+    background-color: transparent;
+    font-family: Miso;
+    font-size: 14px;
+    line-height: 1.2em;
+
+    .titles {
+      display: table-cell;
+    }
+
+    .focus {
+      vertical-align: bottom;
+    }
+
+  }
+}

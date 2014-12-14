@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>{{ page.name }}</title>
+      <meta name="viewport" content="width=device-width">
+
+      <!-- build:css({app,.tmp}) css/main.css -->
+      <!-- Custom CSS -->
+      <link rel="stylesheet" href="/css/main.css">
+      <!-- Compass CSS fixes 'after compilation' -->
+      <link rel="stylesheet" href="/_scss/fixes.css">
+      <!-- endbuild -->
+
+      <script src="//w.soundcloud.com/player/api.js"></script>
+
+      <!-- build:js(app) js/libs.js -->
+      <script src="/_bower_components/q/q.js"></script>
+      <script src="/_bower_components/d3/d3.js"></script>
+      <script src="/_bower_components/underscore/underscore-min.js"></script>
+      <script src="/_bower_components/jquery/dist/jquery.min.js"></script>
+      <script src="/_bower_components/jquery-fittext.js/jquery.fittext.js"></script>
+      <script src="/_bower_components/bootstrap-sass/dist/js/bootstrap.min.js"></script>
+      <script src="/_bower_components/fastclick/lib/fastclick.js"></script>
+      <!-- endbuild -->
+
+      <script type="application/javascript">
+        window.addEventListener('load', function() {
+          FastClick.attach(document.body);
+        }, false);
+      </script>
+
+    </head>
+    <body data-spy="scroll" data-target=".navigation-list">
+      {{ content }}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-48729077-1', 'gizra.github.io');
+      ga('send', 'pageview');
+
+    </script>
+    </body>
+</html>

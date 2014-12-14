@@ -1,0 +1,222 @@
+---
+layout: page
+<%= yaml %>
+---
+{% include JB/setup %}
+<div id="{{ page.guid }}"  class="cdl">
+  <div id="wrapper-content" class="clearfix">
+    <div class="home-icon">
+      <a href="{{ BASE_PATH }}/#/{{ page.guid }}" alt="Home"><div class="arrow-icon"></div></a>
+    </div>
+    <div id="content">
+      <div class="node clearfix">
+        <div class=" node-title ">
+          <div class="text-title">
+            <div class="inner-text-title">
+              {{ page.name }}
+            </div>
+          </div>
+        </div>
+        <div class=" node-content ">
+          {{ page.data }}
+        </div>
+        {% if page.attachments.images != empty %}
+
+        <div class="gallery">
+          {% for attachment in page.attachments.images %}
+          <div class="item item-{{ forloop.index }}">
+            <img class="images-{{ forloop.index }}" src="{{ BASE_PATH }}/pages/{{ attachment.src }}" alt="{{ attachment.name }}"/>
+            <div class="caption caption-{{ forloop.index }}">{{ attachment.name }}</div>
+          </div>
+          {% endfor %}
+        </div>
+
+        {% endif %}
+
+        {% if page.attachments.media != empty %}
+          {% for attachment in page.attachments.media %}
+          <div>
+            <audio src="{{ BASE_PATH }}/pages/{{ attachment.src }}" controls></audio>
+          </div>
+          {% endfor %}
+        {% endif %}
+
+        {% if page.attachments.pages != empty %}
+          {% for attachment in page.attachments.pages %}
+          <div>
+            <a href="{{ attachment.src }}" target="_blank">{{ attachment.name }}</a>
+          </div>
+          {% endfor %}
+        {% endif %}
+
+        {% if page.attachments.youtube != empty %}
+          {% for attachment in page.attachments.youtube %}
+          <div>
+            <iframe  width="560" height="315" src="//www.youtube.com/embed/{{ attachment.id }}" frameborder="0" allowfullscreen></iframe>
+          </div>
+          {% endfor %}
+        {% endif %}
+
+        {% if page.attachments.soundcloud != empty %}
+          {% for attachment in page.attachments.soundcloud %}
+          <div>
+            <iframe class="iframe" width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/{{ attachment.id }}&amp;auto_play=false&amp;auto_advance=false&amp;buying=false&amp;liking=false&amp;download=false&amp;sharing=false&amp;show_artwork=false&amp;show_comments=false&amp;show_playcount=false&amp;show_user=false&amp;hide_related=false&amp;start_track=0&amp;callback=true&amp;color=ff0000&amp;theme_color=ff0000"></iframe>
+          </div>
+          {% endfor %}
+        {% endif %}
+
+        <div class="chronological">
+          {% if page.siblings != empty %}
+
+          <ul>
+            {% for sibling in page.siblings %}
+              {% assign galleryIndex = forloop.index %}
+            <li>
+              <div id="{{ sibling.guid }}" class="chronological-title ">{{ sibling.chronologicalName | upcase }}</div>
+              <div class=" chronological-content node-content ">
+                {{ sibling.data }}
+
+              {% if sibling.attachments.images != empty %}
+                <div class="gallery">
+                {% for attachment in sibling.attachments.images %}
+
+                  <div class="item item-{{ forloop.index }}">
+                    <img class="images-{{ forloop.index }}" src="{{ BASE_PATH }}/pages/{{ attachment.src }}" alt="{{ attachment.name }}"/>
+                    <div class="caption caption-{{ forloop.index }}">{{ attachment.name }}</div>
+                  </div>
+
+                {% endfor %}
+                </div>
+              {% endif %}
+
+              {% if sibling.attachments.media != empty %}
+                {% for attachment in sibling.attachments.media %}
+                <div>
+                  <audio src="{{ BASE_PATH }}/pages/{{ attachment.src }}" controls></audio>
+                </div>
+                {% endfor %}
+              {% endif %}
+
+              {% if sibling.attachments.pages != empty %}
+                {% for attachment in sibling.attachments.pages %}
+                <div>
+                  <a href="{{ attachment.src }}" target="_blank">{{ attachment.name }}</a>
+                </div>
+                {% endfor %}
+              {% endif %}
+
+              {% if sibling.attachments.youtube != empty %}
+                {% for attachment in sibling.attachments.youtube %}
+                <div>
+                  <iframe  width="560" height="315" src="//www.youtube.com/embed/{{ attachment.id }}" frameborder="0" allowfullscreen></iframe>
+                </div>
+                {% endfor %}
+              {% endif %}
+
+              {% if sibling.attachments.soundcloud != empty %}
+                {% for attachment in page.attachments.soundcloud %}
+                <div>
+                  <iframe class="iframe" width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/{{ attachment.id }}&amp;auto_play=false&amp;auto_advance=false&amp;buying=false&amp;liking=false&amp;download=false&amp;sharing=false&amp;show_artwork=false&amp;show_comments=false&amp;show_playcount=false&amp;show_user=false&amp;hide_related=false&amp;start_track=0&amp;callback=true&amp;color=ff0000&amp;theme_color=ff0000"></iframe>
+                </div>
+                {% endfor %}
+              {% endif %}
+
+              </div>
+
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif%}
+        </div>
+
+        {% if page.siblings == empty %}
+        <div id="menu-nodes">
+          <div class="navigation-node">
+
+            <div class="navigation-children">
+              {% if page.children != empty %}
+              <div class="navigation-list">
+                <ul class="nav nav-tabs">
+                  {% for child in page.children %}
+
+                  {% if forloop.index0 == 0 %}
+                  <li class="top-children">
+                  {% else %}
+                  <li>
+                  {% endif %}
+                    <a href="{{ BASE_PATH }}/pages/{{ child.guid }}">{{ child.name | upcase }}</a><a class="node-link" href="{{ BASE_PATH }}/pages/{{ child.guid }}"><img src="{{ BASE_PATH }}/images/link.png" alt="node-link"/></a>
+                  </li>
+
+                  {% endfor %}
+                </ul>
+              </div>
+              {% endif %}
+            </div>
+
+            <div class="navigation-brothers">
+              {% if page.brothers != empty %}
+              <div class="navigation-list">
+                <ul class="nav nav-tabs">
+                  {% for brother in page.brothers %}
+
+                  {% if forloop.index0 == 0 %}
+                    {% if page.children != empty %}
+                  <li>
+                    {% else %}
+                  <li class="top-brother">
+                    {% endif %}
+                  {% else %}
+                  <li>
+                  {% endif %}
+
+                    <a href="{{ BASE_PATH }}/pages/{{ brother.guid }}">{{ brother.name | upcase }}</a><a class="node-link" href="{{ BASE_PATH }}/pages/{{ brother.guid }}"><img src="{{ BASE_PATH }}/images/link.png" alt="node-link"/></a>
+                  </li>
+
+                  {% endfor %}
+                </ul>
+              </div>
+              {% endif %}
+            </div>
+
+            <div class="navigation-parent">
+              {% if page.parent %}
+              <div class="navigation-list">
+                <ul class="nav nav-tabs">
+                  <li class="top-parent">
+                    <a href="{{ BASE_PATH }}/pages/{{ page.parent.guid }}">{{ page.parent.name | upcase }}</a><a class="node-link" href="{{ BASE_PATH }}/pages/{{ page.parent.guid }}"><img src="{{ BASE_PATH }}/images/link.png" alt="node-link"/></a>
+                  </li>
+                </ul>
+              </div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endif %}
+
+      </div>
+
+
+      <div class="footer-line clearfix"></div>
+    </div>
+    <div id="menu">
+      <div class="navigation">
+        {% if page.siblings != empty %}
+        <div class="navigation-title">
+          <a href="#{{ page.guid }}">{{ page.name | upcase }}</a>
+        </div>
+        <div class="navigation-list">
+          <ul class="nav nav-tabs">
+            {% for sibling in page.siblings %}
+            <li>
+              <a href="#{{ sibling.guid }}">{{ sibling.chronologicalName | upcase }}</a>
+              <div class="spot"></div>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif%}
+      </div>
+    </div>
+  </div>
+</div>
+
